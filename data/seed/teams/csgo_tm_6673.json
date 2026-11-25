@@ -1,0 +1,2571 @@
+{
+  "team_id": "csgo_tm_6673",
+  "fetched_at": "2026-11-13T12:48:42.370Z",
+  "overview": {
+    "coach": "daps",
+    "death": "106462",
+    "draws": "1",
+    "kd_ratio": "1.06",
+    "kill": "113208",
+    "losses": "551",
+    "map_count": "1376",
+    "milestone_display": false,
+    "milestones": [],
+    "players": [
+      {
+        "birthday": "1995-08-16",
+        "bonus": "$1,085,224",
+        "constellation": "https://oss.5eplay.com/player/constellation/shizi.png",
+        "country_en": "United States",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/2df42f69e4220309f4cb1f27860caa65.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d5qrdv4conkpudhr3jig.png",
+        "id": "csgo_pl_7687",
+        "is_conduct": "1",
+        "name": "nitr0",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d5qrducconkpudhr3ji0.png",
+        "position": "首发",
+        "positions": [
+          "指挥"
+        ],
+        "team_id": "csgo_tm_6673",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+        "team_name": "NRG",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "1998-12-02",
+        "bonus": "$162,896",
+        "constellation": "https://oss.5eplay.com/player/constellation/sheshou.png",
+        "country_en": "South Africa",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/ab77d44e3b78cf76213120dcffcda609.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d5qrer4conkpudhr3jjg.png",
+        "id": "csgo_pl_8711",
+        "is_conduct": "2",
+        "name": "Sonic",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d5qreqcconkpudhr3jj0.png",
+        "position": "首发",
+        "positions": [
+          "狙击手",
+          "自由人"
+        ],
+        "team_id": "csgo_tm_6673",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+        "team_name": "NRG",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2000-11-22",
+        "bonus": "$299,143",
+        "constellation": "https://oss.5eplay.com/player/constellation/tianxie.png",
+        "country_en": "United States",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/2df42f69e4220309f4cb1f27860caa65.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d82kqhsconkpudhr4kfg.png",
+        "id": "csgo_pl_13578",
+        "is_conduct": "2",
+        "name": "Grim",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d82kqisconkpudhr4kg0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "csgo_tm_6673",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+        "team_name": "NRG",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2003-04-14",
+        "bonus": "$92,188",
+        "constellation": "https://oss.5eplay.com/player/constellation/muyang.png",
+        "country_en": "United States",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/2df42f69e4220309f4cb1f27860caa65.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d5qrh9cconkpudhr3jmg.png",
+        "id": "csgo_pl_20333",
+        "is_conduct": "2",
+        "name": "Jeorge",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d5qrh8kconkpudhr3jm0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "csgo_tm_6673",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+        "team_name": "NRG",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2000-07-14",
+        "bonus": "$161,539",
+        "constellation": "https://oss.5eplay.com/player/constellation/juxie.png",
+        "country_en": "Norway",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/29f0c263e971ce6823c8d6b639152fe9.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d5smet4conkpudhr3k1g.png",
+        "id": "csgo_pl_12840",
+        "is_conduct": "2",
+        "name": "hallzerk",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d5smescconkpudhr3k10.png",
+        "position": "首发",
+        "positions": [
+          "狙击手"
+        ],
+        "team_id": "csgo_tm_6673",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+        "team_name": "NRG",
+        "top20_num": "0"
+      }
+    ],
+    "rank_stats": [
+      {
+        "date": "2026-08-17",
+        "rank": "49",
+        "v_rank": "54"
+      },
+      {
+        "date": "2026-08-24",
+        "rank": "46",
+        "v_rank": "53"
+      },
+      {
+        "date": "2026-08-31",
+        "rank": "45",
+        "v_rank": "50"
+      },
+      {
+        "date": "2026-09-07",
+        "rank": "51",
+        "v_rank": "50"
+      },
+      {
+        "date": "2026-09-14",
+        "rank": "50",
+        "v_rank": "48"
+      },
+      {
+        "date": "2026-09-21",
+        "rank": "24",
+        "v_rank": "36"
+      },
+      {
+        "date": "2026-09-28",
+        "rank": "28",
+        "v_rank": "43"
+      },
+      {
+        "date": "2026-10-05",
+        "rank": "30",
+        "v_rank": "47"
+      },
+      {
+        "date": "2026-10-12",
+        "rank": "31",
+        "v_rank": "43"
+      },
+      {
+        "date": "2026-10-19",
+        "rank": "31",
+        "v_rank": "43"
+      },
+      {
+        "date": "2026-10-26",
+        "rank": "31",
+        "v_rank": "48"
+      },
+      {
+        "date": "2026-11-02",
+        "rank": "36",
+        "v_rank": "48"
+      },
+      {
+        "date": "2026-11-09",
+        "rank": "36",
+        "v_rank": "48"
+      },
+      {
+        "date": "2026-11-13",
+        "rank": "36",
+        "v_rank": "47"
+      }
+    ],
+    "win_rate": "59.9%",
+    "wins": "824"
+  },
+  "team_info": {
+    "average_player_age": "27",
+    "bonus": "$1,270,784",
+    "coach": "daps",
+    "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/2df42f69e4220309f4cb1f27860caa65.jpg",
+    "country_name": "美国",
+    "disp_abbr": "NRG",
+    "disp_name": "NRG",
+    "id": "csgo_tm_6673",
+    "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+    "points": "53",
+    "rank": "36",
+    "region_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/region/d72aencconkpudhr3q1g.png",
+    "region_name": "美洲",
+    "tab_tt_status": "显示",
+    "tag": "",
+    "v_club_integral": "1271",
+    "v_club_rank": "47"
+  },
+  "honors": {
+    "history_honors": [
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "IEM 克拉科夫 2026 第一阶段",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_8575",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvsj0v4nfqe2nie48og.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "StarLadder Major 柏林 2019",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4443",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvuslf4nfqe2nie4d10.png",
+        "honor_id": "",
+        "rank": "3rd",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "BLAST Pro Series Los Angeles 2019",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4500",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvt4rn4nfqe2nie49s0.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ESL Pro League Season 9 Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4490",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvtejn4nfqe2nie49tg.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ECS Season 7 Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4411",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "cs_summit 4",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4566",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvtt674nfqe2nie4a1g.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "IEM Sydney 2019",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4236",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvttsv4nfqe2nie4a40.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "StarSeries i-League Season 7",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4240",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "2nd",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "SuperNova CS:GO Malta",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4081",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "cs_summit 3",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4162",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "StarSeries i-League Season 6",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_3891",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvtvvv4nfqe2nie4aeg.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ESL One New York 2018",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_3703",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "IEM Shanghai 2018",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_3833",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvu24n4nfqe2nie4aog.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ECS Season 5 Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_3460",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvu2hf4nfqe2nie4apg.png",
+        "honor_id": "",
+        "rank": "2nd",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "StarSeries i-League Season 5",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_3666",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "Counter Pit League Season 2 Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_2034",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      }
+    ],
+    "major_honors": [
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvsj0v4nfqe2nie48og.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "StarLadder Major 柏林 2019",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_4443",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      }
+    ]
+  },
+  "sessions": [
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399985",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.61",
+        "t1_odds_percent": "58",
+        "t1_score": "1",
+        "t2_odds": "2.23",
+        "t2_odds_percent": "42",
+        "t2_score": "2",
+        "ts": "1793484900",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5800,
+        "team2_likes": 4200,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399968",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Procyon",
+          "id": "csgo_tm_10997",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d85e59kconkpudhr4oqg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.1",
+        "t1_odds_percent": "86",
+        "t1_score": "2",
+        "t2_odds": "6.55",
+        "t2_odds_percent": "14",
+        "t2_score": "1",
+        "ts": "1793317200",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8600,
+        "team2_likes": 1400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399966",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Tactical Chaos",
+          "id": "hltv_team_14109",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.00",
+        "t1_odds_percent": "94",
+        "t1_score": "2",
+        "t2_odds": "16.50",
+        "t2_odds_percent": "6",
+        "t2_score": "0",
+        "ts": "1793301000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9400,
+        "team2_likes": 600,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399405",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Imperial",
+          "id": "csgo_tm_9455",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d2o271cconkqbk3bnl50.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.82",
+        "t1_odds_percent": "52",
+        "t1_score": "2",
+        "t2_odds": "1.94",
+        "t2_odds_percent": "48",
+        "t2_score": "1",
+        "ts": "1791733200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第4轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "美国，纽约州，锡拉丘兹",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FRAG 大学杯 2026",
+        "end_time": "2026-10-12 07:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9413",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d927aksconkpudhr54h0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5200,
+        "team2_likes": 4800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399404",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "SportsBetExpert",
+          "id": "hltv_team_13375",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d6b6pv4conkpudhr3l9g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1791672600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第3轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "美国，纽约州，锡拉丘兹",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FRAG 大学杯 2026",
+        "end_time": "2026-10-12 07:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9413",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d927aksconkpudhr54h0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent"
+        ],
+        "dark_horse": "1",
+        "format": "1",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "12",
+        "home_score": "12",
+        "id": "csgo_mc_2399399",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "16",
+        "opponent_score": "16",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.4",
+        "t1_odds_percent": "67",
+        "t1_score": "12",
+        "t2_odds": "2.81",
+        "t2_odds_percent": "33",
+        "t2_score": "16",
+        "ts": "1791664800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "美国，纽约州，锡拉丘兹",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FRAG 大学杯 2026",
+        "end_time": "2026-10-12 07:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9413",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d927aksconkpudhr54h0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6700,
+        "team2_likes": 3300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "13",
+        "home_score": "13",
+        "id": "csgo_mc_2399392",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Unreal Nightmare",
+          "id": "hltv_team_13995",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "6",
+        "opponent_score": "6",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "13",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "6",
+        "ts": "1791647700",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "美国，纽约州，锡拉丘兹",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FRAG 大学杯 2026",
+        "end_time": "2026-10-12 07:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9413",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d927aksconkpudhr54h0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398291",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.29",
+        "t1_odds_percent": "72",
+        "t1_score": "2",
+        "t2_odds": "3.32",
+        "t2_odds_percent": "28",
+        "t2_score": "0",
+        "ts": "1790442000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 7200,
+        "team2_likes": 2800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398289",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Liquid",
+          "id": "csgo_tm_5973",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d3r1kusconkqbk3bnu2g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.13",
+        "t1_odds_percent": "43",
+        "t1_score": "2",
+        "t2_odds": "1.64",
+        "t2_odds_percent": "57",
+        "t2_score": "0",
+        "ts": "1790376300",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4300,
+        "team2_likes": 5700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398288",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.33",
+        "t1_odds_percent": "69",
+        "t1_score": "2",
+        "t2_odds": "3",
+        "t2_odds_percent": "31",
+        "t2_score": "0",
+        "ts": "1790356800",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6900,
+        "team2_likes": 3100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": ""
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398104",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "玩机器",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/6979222",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "QUQU",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/178432",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "259",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/1883358196",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙StarLadder主舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/825801",
+            "url": "https://liveshare.huya.com/iframe/825801?from=qd785&presenterUid=1199517589921"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站官方直播间",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/35",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=21622811&quality=0"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "MIBR",
+          "id": "csgo_tm_9215",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cgcl8j1ll806h1bg2nn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.53",
+        "t1_odds_percent": "37",
+        "t1_score": "2",
+        "t2_odds": "1.5",
+        "t2_odds_percent": "63",
+        "t2_score": "0",
+        "ts": "1789812000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "StarLadder 2026 秋季赛",
+        "bonus": "$500,000",
+        "city_name": "西班牙，巴塞罗那",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "StarLadder 2026 秋季赛",
+        "end_time": "2026-09-21 03:59:59",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_8057",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8057.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2026-09-17 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3700,
+        "team2_likes": 6300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyNjM0Nzc0NCI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398101",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "玩机器",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/6979222",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "QUQU",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/178432",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "259",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/1883358196",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站官方直播间",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/35",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=21622811&quality=0"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Aurora",
+          "id": "csgo_tm_11861",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cgrnhlf4nfqe2nie40o0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "3.94",
+        "t1_odds_percent": "24",
+        "t1_score": "0",
+        "t2_odds": "1.24",
+        "t2_odds_percent": "76",
+        "t2_score": "2",
+        "ts": "1789747500",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "StarLadder 2026 秋季赛",
+        "bonus": "$500,000",
+        "city_name": "西班牙，巴塞罗那",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "StarLadder 2026 秋季赛",
+        "end_time": "2026-09-21 03:59:59",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_8057",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8057.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2026-09-17 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2400,
+        "team2_likes": 7600,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyNjIwMDczMCI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398088",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "玩机器",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/6979222",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "QUQU",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/178432",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "259",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/1883358196",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站官方直播间",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/35",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=21622811&quality=0"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "MOUZ",
+          "id": "csgo_tm_4494",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3pf74nfq43340unp0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "5.54",
+        "t1_odds_percent": "17",
+        "t1_score": "1",
+        "t2_odds": "1.12",
+        "t2_odds_percent": "83",
+        "t2_score": "2",
+        "ts": "1789639200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "StarLadder 2026 秋季赛",
+        "bonus": "$500,000",
+        "city_name": "西班牙，巴塞罗那",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "StarLadder 2026 秋季赛",
+        "end_time": "2026-09-21 03:59:59",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_8057",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8057.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2026-09-17 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 1700,
+        "team2_likes": 8300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "5",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2397757",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Liquid",
+          "id": "csgo_tm_5973",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d3r1kusconkqbk3bnu2g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "3",
+        "opponent_score": "3",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.95",
+        "t1_odds_percent": "47",
+        "t1_score": "2",
+        "t2_odds": "1.77",
+        "t2_odds_percent": "53",
+        "t2_score": "3",
+        "ts": "1789252800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛  决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "北美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特大师赛 2026 北美封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9243",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dab255sconkpudhr5cd0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4700,
+        "team2_likes": 5300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2397754",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Liquid",
+          "id": "csgo_tm_5973",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d3r1kusconkqbk3bnu2g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.61",
+        "t1_odds_percent": "35",
+        "t1_score": "2",
+        "t2_odds": "1.42",
+        "t2_odds_percent": "65",
+        "t2_score": "0",
+        "ts": "1789178400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 第3轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "北美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特大师赛 2026 北美封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9243",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dab255sconkpudhr5cd0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3500,
+        "team2_likes": 6500,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2397750",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Voca",
+          "id": "hltv_team_13499",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d6h5odsconkpudhr3mqg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.33",
+        "t1_odds_percent": "69",
+        "t1_score": "0",
+        "t2_odds": "3",
+        "t2_odds_percent": "31",
+        "t2_score": "2",
+        "ts": "1789092000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 第2轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "北美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特大师赛 2026 北美封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9243",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dab255sconkpudhr5cd0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6900,
+        "team2_likes": 3100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2397733",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Without a Roof",
+          "id": "csgo_tm_6914",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d9ql2csconkpudhr5agg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.13",
+        "t1_odds_percent": "81",
+        "t1_score": "2",
+        "t2_odds": "4.84",
+        "t2_odds_percent": "19",
+        "t2_score": "0",
+        "ts": "1788995400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 第1轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "北美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特大师赛 2026 北美封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9243",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dab255sconkpudhr5cd0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8100,
+        "team2_likes": 1900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2396539",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Phantom",
+          "id": "hltv_team_13173",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d2sede4conkqbk3bnms0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.63",
+        "t1_odds_percent": "57",
+        "t1_score": "1",
+        "t2_odds": "2.2",
+        "t2_odds_percent": "43",
+        "t2_score": "2",
+        "ts": "1786266000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "Esports World Cup 2026 Open Qualifier",
+        "abbr_zh": "电竞世俱杯 2026 公开预选赛",
+        "bonus": "$100,000",
+        "city_name": "巴黎，法国",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "电竞世俱杯 2026 公开预选赛",
+        "end_time": "2026-08-10 04:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_8762",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/co6cer4conklgsjvh2fg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-08-07 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5700,
+        "team2_likes": 4300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2396509",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Acend",
+          "id": "hltv_team_13518",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d5k54usconkpudhr3gv0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.66",
+        "t1_odds_percent": "56",
+        "t1_score": "1",
+        "t2_odds": "2.16",
+        "t2_odds_percent": "44",
+        "t2_score": "2",
+        "ts": "1786179600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "Esports World Cup 2026 Open Qualifier",
+        "abbr_zh": "电竞世俱杯 2026 公开预选赛",
+        "bonus": "$100,000",
+        "city_name": "巴黎，法国",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "电竞世俱杯 2026 公开预选赛",
+        "end_time": "2026-08-10 04:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_8762",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/co6cer4conklgsjvh2fg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-08-07 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5600,
+        "team2_likes": 4400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2396494",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Spirit HU",
+          "id": "hltv_team_12822",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.01",
+        "t1_odds_percent": "93",
+        "t1_score": "0",
+        "t2_odds": "13.5",
+        "t2_odds_percent": "7",
+        "t2_score": "2",
+        "ts": "1786120200",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "Esports World Cup 2026 Open Qualifier",
+        "abbr_zh": "电竞世俱杯 2026 公开预选赛",
+        "bonus": "$100,000",
+        "city_name": "巴黎，法国",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "电竞世俱杯 2026 公开预选赛",
+        "end_time": "2026-08-10 04:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_8762",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/co6cer4conklgsjvh2fg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-08-07 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9300,
+        "team2_likes": 700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    }
+  ]
+}

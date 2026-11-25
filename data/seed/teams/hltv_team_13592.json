@@ -1,0 +1,2310 @@
+{
+  "team_id": "hltv_team_13592",
+  "fetched_at": "2026-11-13T12:48:40.411Z",
+  "overview": {
+    "coach": "eksiver",
+    "death": "15065",
+    "draws": "0",
+    "kd_ratio": "1.02",
+    "kill": "15376",
+    "losses": "82",
+    "map_count": "203",
+    "milestone_display": false,
+    "milestones": [],
+    "players": [
+      {
+        "birthday": "2006-01-11",
+        "bonus": "$25,539",
+        "constellation": "https://oss.5eplay.com/player/constellation/mojie.png",
+        "country_en": "Russia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9d442d4b119b5bf52e18371d14a2f429.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d7uliasconkpudhr4gng.png",
+        "id": "csgo_pl_22076",
+        "is_conduct": "2",
+        "name": "AW",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d7uli9kconkpudhr4gn0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "突破"
+        ],
+        "team_id": "hltv_team_13592",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+        "team_name": "magic",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2003-01-17",
+        "bonus": "$21,366",
+        "constellation": "https://oss.5eplay.com/player/constellation/mojie.png",
+        "country_en": "Belarus",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/bca6827574f4db80590763de38af85a5.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d7ulh0cconkpudhr4glg.png",
+        "id": "csgo_pl_19874",
+        "is_conduct": "1",
+        "name": "MaSvAl",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d7ulgtsconkpudhr4gl0.png",
+        "position": "首发",
+        "positions": [
+          "指挥"
+        ],
+        "team_id": "hltv_team_13592",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+        "team_name": "magic",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2005-03-15",
+        "bonus": "$16,282",
+        "constellation": "https://oss.5eplay.com/player/constellation/shuangyu.png",
+        "country_en": "Russia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9d442d4b119b5bf52e18371d14a2f429.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d7ulip4conkpudhr4gog.png",
+        "id": "csgo_pl_24173",
+        "is_conduct": "",
+        "name": "tenzy",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d7ulinkconkpudhr4go0.png",
+        "position": "首发",
+        "positions": [],
+        "team_id": "hltv_team_13592",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+        "team_name": "magic",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2004-01-26",
+        "bonus": "$11,976",
+        "constellation": "https://oss.5eplay.com/player/constellation/shuiping.png",
+        "country_en": "Ukraine",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9ae4c60cfb35d482d07fe7a841fa8705.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d7ulhlsconkpudhr4gmg.png",
+        "id": "csgo_pl_22075",
+        "is_conduct": "2",
+        "name": "sFade8",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d7ulhk4conkpudhr4gm0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_13592",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+        "team_name": "magic",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "$44,910",
+        "constellation": "",
+        "country_en": "Russia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9d442d4b119b5bf52e18371d14a2f429.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d1hjmikconkt3legeplg.png",
+        "id": "csgo_pl_20700",
+        "is_conduct": "2",
+        "name": "lattykk",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d1hjmi4conkt3legepl0.png",
+        "position": "首发",
+        "positions": [
+          "狙击手"
+        ],
+        "team_id": "hltv_team_13592",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+        "team_name": "magic",
+        "top20_num": "0"
+      }
+    ],
+    "rank_stats": [
+      {
+        "date": "2026-08-17",
+        "rank": "21",
+        "v_rank": "22"
+      },
+      {
+        "date": "2026-08-24",
+        "rank": "19",
+        "v_rank": "22"
+      },
+      {
+        "date": "2026-08-31",
+        "rank": "20",
+        "v_rank": "22"
+      },
+      {
+        "date": "2026-09-07",
+        "rank": "18",
+        "v_rank": "23"
+      },
+      {
+        "date": "2026-09-14",
+        "rank": "17",
+        "v_rank": "18"
+      },
+      {
+        "date": "2026-09-21",
+        "rank": "18",
+        "v_rank": "20"
+      },
+      {
+        "date": "2026-09-28",
+        "rank": "18",
+        "v_rank": "20"
+      },
+      {
+        "date": "2026-10-05",
+        "rank": "18",
+        "v_rank": "27"
+      },
+      {
+        "date": "2026-10-12",
+        "rank": "24",
+        "v_rank": "28"
+      },
+      {
+        "date": "2026-10-19",
+        "rank": "26",
+        "v_rank": "31"
+      },
+      {
+        "date": "2026-10-26",
+        "rank": "25",
+        "v_rank": "33"
+      },
+      {
+        "date": "2026-11-02",
+        "rank": "29",
+        "v_rank": "39"
+      },
+      {
+        "date": "2026-11-09",
+        "rank": "29",
+        "v_rank": "39"
+      },
+      {
+        "date": "2026-11-13",
+        "rank": "29",
+        "v_rank": "36"
+      }
+    ],
+    "win_rate": "59.6%",
+    "wins": "121"
+  },
+  "team_info": {
+    "average_player_age": "22",
+    "bonus": "",
+    "coach": "eksiver",
+    "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9d442d4b119b5bf52e18371d14a2f429.jpg",
+    "country_name": "俄罗斯",
+    "disp_abbr": "magic",
+    "disp_name": "magic",
+    "id": "hltv_team_13592",
+    "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+    "points": "65",
+    "rank": "29",
+    "region_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/region/Europe.png",
+    "region_name": "欧洲",
+    "tab_tt_status": "显示",
+    "tag": "",
+    "v_club_integral": "1349",
+    "v_club_rank": "36"
+  },
+  "honors": {
+    "history_honors": [],
+    "major_honors": []
+  },
+  "sessions": [
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2400465",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.79",
+        "t1_odds_percent": "52",
+        "t1_score": "2",
+        "t2_odds": "1.93",
+        "t2_odds_percent": "48",
+        "t2_score": "0",
+        "ts": "1794421800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 总决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 1",
+        "end_time": "2026-11-11 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9393",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5200,
+        "team2_likes": 4800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2400464",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "PCIFIC",
+          "id": "hltv_team_13054",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cv55kjsconkqmjpn8ik0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.16",
+        "t1_odds_percent": "81",
+        "t1_score": "2",
+        "t2_odds": "5.00",
+        "t2_odds_percent": "19",
+        "t2_score": "1",
+        "ts": "1794409200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 1",
+        "end_time": "2026-11-11 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9393",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8100,
+        "team2_likes": 1900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2400462",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "PURE",
+          "id": "hltv_team_13777",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/dbc66e4conkip2fe7530.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "0",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1794339900",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 八强",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 1",
+        "end_time": "2026-11-11 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9393",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "13",
+        "home_score": "13",
+        "id": "csgo_mc_2400457",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Acend",
+          "id": "hltv_team_13518",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d5k54usconkpudhr3gv0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "11",
+        "opponent_score": "11",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "13",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "11",
+        "ts": "1794336000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 十六强",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 1",
+        "end_time": "2026-11-11 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9393",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399709",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Astralis",
+          "id": "csgo_tm_6665",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/ch9oh3n4nfqe2nie4t10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.15",
+        "t1_odds_percent": "43",
+        "t1_score": "1",
+        "t2_odds": "1.65",
+        "t2_odds_percent": "57",
+        "t2_score": "2",
+        "ts": "1793185200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$100,000",
+        "city_name": "巴塞罗那，西班牙",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "Stake 排位赛 第5季",
+        "end_time": "2026-10-30 23:59:59",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_9257",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d919nucconkpudhr54eg.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2026-10-27 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4300,
+        "team2_likes": 5700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399705",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BIG",
+          "id": "csgo_tm_7532",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cgdr7u9ll806h1bg2os0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.10",
+        "t1_odds_percent": "45",
+        "t1_score": "1",
+        "t2_odds": "1.72",
+        "t2_odds_percent": "55",
+        "t2_score": "2",
+        "ts": "1793098800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$100,000",
+        "city_name": "巴塞罗那，西班牙",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "Stake 排位赛 第5季",
+        "end_time": "2026-10-30 23:59:59",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_9257",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d919nucconkpudhr54eg.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2026-10-27 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4500,
+        "team2_likes": 5500,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398997",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Mongolz",
+          "id": "csgo_tm_6248",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cotdagsconklgsjvhg10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.02",
+        "t1_odds_percent": "47",
+        "t1_score": "0",
+        "t2_odds": "1.78",
+        "t2_odds_percent": "53",
+        "t2_score": "2",
+        "ts": "1792573800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$100,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "1win Private Club 第2季",
+        "end_time": "2026-10-22 23:59:59",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_9407",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dahv0kcconkpudhr5dlg.png",
+        "mode": "1",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2026-10-19 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4700,
+        "team2_likes": 5300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398994",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Liquid",
+          "id": "csgo_tm_5973",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d3r1kusconkqbk3bnu2g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.39",
+        "t1_odds_percent": "39",
+        "t1_score": "0",
+        "t2_odds": "1.56",
+        "t2_odds_percent": "61",
+        "t2_score": "2",
+        "ts": "1792496700",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$100,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "1win Private Club 第2季",
+        "end_time": "2026-10-22 23:59:59",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_9407",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dahv0kcconkpudhr5dlg.png",
+        "mode": "1",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2026-10-19 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3900,
+        "team2_likes": 6100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398992",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "玩机器",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/6979222",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "QUQU",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/178432",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "DANK1NG",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/10188",
+            "url": "https://liveshare.huya.com/iframe/10188?from=qd785&presenterUid=333393123"
+          },
+          {
+            "can_jump": 1,
+            "name": "冬瓜",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/63136",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/63136?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "259",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/1883358196",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          },
+          {
+            "can_jump": 1,
+            "name": "莱昂凯",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/314957",
+            "url": "https://liveshare.huya.com/iframe/314957?from=qd785&presenterUid=1182498550"
+          },
+          {
+            "can_jump": 1,
+            "name": "老X",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/148651",
+            "url": "https://liveshare.huya.com/iframe/148651?from=qd785&presenterUid=1201776790"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "PARIVISION",
+          "id": "hltv_team_12467",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_clr6upsconkqks63ctn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.33",
+        "t1_odds_percent": "40",
+        "t1_score": "2",
+        "t2_odds": "1.59",
+        "t2_odds_percent": "60",
+        "t2_score": "0",
+        "ts": "1792430400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$100,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "1win Private Club 第2季",
+        "end_time": "2026-10-22 23:59:59",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_9407",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dahv0kcconkpudhr5dlg.png",
+        "mode": "1",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2026-10-19 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4000,
+        "team2_likes": 6000,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398244",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "GL",
+          "id": "csgo_tm_9928",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7ldoasconkpudhr4da0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "0",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1790593200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$100,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "1win Private Club 第1季",
+        "end_time": "2026-09-28 23:59:59",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_9327",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9uhiccconkpudhr5ap0.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2398242",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NIP",
+          "id": "csgo_tm_4411",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_clsl1asconkqks63cvg0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1790522400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$100,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "1win Private Club 第1季",
+        "end_time": "2026-09-28 23:59:59",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_9327",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9uhiccconkpudhr5ap0.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398239",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "GL",
+          "id": "csgo_tm_9928",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7ldoasconkpudhr4da0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1790446200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$100,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "1win Private Club 第1季",
+        "end_time": "2026-09-28 23:59:59",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_9327",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9uhiccconkpudhr5ap0.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398095",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "EYE",
+          "id": "csgo_tm_11737",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_ceihebn4nfq4334151j0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1790357100",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$100,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "1win Private Club 第1季",
+        "end_time": "2026-09-28 23:59:59",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_9327",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9uhiccconkpudhr5ap0.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyNjMzMTk4OCI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2398100",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "QUQU",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/178432",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "259",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/1883358196",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站官方直播间",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/35",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=21622811&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙StarLadder主舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/825801",
+            "url": "https://liveshare.huya.com/iframe/825801?from=qd785&presenterUid=1199517589921"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "MIBR",
+          "id": "csgo_tm_9215",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cgcl8j1ll806h1bg2nn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.9",
+        "t1_odds_percent": "32",
+        "t1_score": "1",
+        "t2_odds": "1.35",
+        "t2_odds_percent": "68",
+        "t2_score": "2",
+        "ts": "1789737000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "StarLadder 2026 秋季赛",
+        "bonus": "$500,000",
+        "city_name": "西班牙，巴塞罗那",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "StarLadder 2026 秋季赛",
+        "end_time": "2026-09-21 03:59:59",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_8057",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8057.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2026-09-17 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3200,
+        "team2_likes": 6800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyNjIxNDIxNiI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398089",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "玩机器",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/6979222",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "QUQU",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/178432",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "DANK1NG",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/10188",
+            "url": "https://liveshare.huya.com/iframe/10188?from=qd785&presenterUid=333393123"
+          },
+          {
+            "can_jump": 1,
+            "name": "259",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/1883358196",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          },
+          {
+            "can_jump": 1,
+            "name": "莱昂凯",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/314957",
+            "url": "https://liveshare.huya.com/iframe/314957?from=qd785&presenterUid=1182498550"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站官方直播间",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/35",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=21622811&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙StarLadder主舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/825801",
+            "url": "https://liveshare.huya.com/iframe/825801?from=qd785&presenterUid=1199517589921"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Vitality",
+          "id": "csgo_tm_9565",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_ci8mp6n4nfq3cc4ue9k0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "6.88",
+        "t1_odds_percent": "13",
+        "t1_score": "2",
+        "t2_odds": "1.1",
+        "t2_odds_percent": "87",
+        "t2_score": "0",
+        "ts": "1789650300",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "StarLadder 2026 秋季赛",
+        "bonus": "$500,000",
+        "city_name": "西班牙，巴塞罗那",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "StarLadder 2026 秋季赛",
+        "end_time": "2026-09-21 03:59:59",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_8057",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8057.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2026-09-17 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 1300,
+        "team2_likes": 8700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyNTQyMzE1MiI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2397618",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙裂变天地主直播间",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/30670202",
+            "url": "https://liveshare.huya.com/iframe/30670202?from=qd785&presenterUid=1199652927193"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Alliance",
+          "id": "hltv_team_12474",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpk2dikconklgsjvice0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.39",
+        "t1_odds_percent": "66",
+        "t1_score": "2",
+        "t2_odds": "2.69",
+        "t2_odds_percent": "34",
+        "t2_score": "0",
+        "ts": "1789042200",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$1,000,000",
+        "city_name": "中国，苏州",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "FISSURE 裂变天地 3",
+        "end_time": "2026-09-13 20:39:59",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_8266",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d4vra6sconkpudhr3c80.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2026-09-08 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6600,
+        "team2_likes": 3400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyNTQxNTc5MiI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2397616",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "虎牙裂变天地主直播间",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/30670202",
+            "url": "https://liveshare.huya.com/iframe/30670202?from=qd785&presenterUid=1199652927193"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "PARIVISION",
+          "id": "hltv_team_12467",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_clr6upsconkqks63ctn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.19",
+        "t1_odds_percent": "42",
+        "t1_score": "2",
+        "t2_odds": "1.62",
+        "t2_odds_percent": "58",
+        "t2_score": "0",
+        "ts": "1789020000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$1,000,000",
+        "city_name": "中国，苏州",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "FISSURE 裂变天地 3",
+        "end_time": "2026-09-13 20:39:59",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_8266",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d4vra6sconkpudhr3c80.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2026-09-08 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4200,
+        "team2_likes": 5800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyNTI2OTc1MCI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2397607",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙裂变天地主直播间",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/30670202",
+            "url": "https://liveshare.huya.com/iframe/30670202?from=qd785"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FaZe",
+          "id": "csgo_tm_6667",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d818n3cconkpudhr4jmg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.29",
+        "t1_odds_percent": "40",
+        "t1_score": "2",
+        "t2_odds": "1.56",
+        "t2_odds_percent": "60",
+        "t2_score": "1",
+        "ts": "1788922800",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$1,000,000",
+        "city_name": "中国，苏州",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "FISSURE 裂变天地 3",
+        "end_time": "2026-09-13 20:39:59",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_8266",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d4vra6sconkpudhr3c80.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2026-09-08 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4000,
+        "team2_likes": 6000,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSBzcmM9Ii8vcGxheWVyLmJpbGliaWxpLmNvbS9wbGF5ZXIuaHRtbD9pc091dHNpZGU9dHJ1ZSZhaWQ9MTE3MjM1MzA5ODc4NTcwJmJ2aWQ9QlYxVWViVjZ0RUxUJmNpZD00MTY5NjU2MDIwMyZwPTEiIHNjcm9sbGluZz0ibm8iIGJvcmRlcj0iMCIgZnJhbWVib3JkZXI9Im5vIiBmcmFtZXNwYWNpbmc9IjAiIGFsbG93ZnVsbHNjcmVlbj0idHJ1ZSI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2397596",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "玩机器",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/6979222",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙裂变天地主直播间",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/30670202",
+            "url": "https://liveshare.huya.com/iframe/30670202?from=qd785"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Legacy",
+          "id": "hltv_team_12468",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/ck9evp4conkqks63bksg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.96",
+        "t1_odds_percent": "31",
+        "t1_score": "2",
+        "t2_odds": "1.34",
+        "t2_odds_percent": "69",
+        "t2_score": "1",
+        "ts": "1788836400",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$1,000,000",
+        "city_name": "中国，苏州",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "FISSURE 裂变天地 3",
+        "end_time": "2026-09-13 20:39:59",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_8266",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d4vra6sconkpudhr3c80.png",
+        "mode": "2",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2026-09-08 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3100,
+        "team2_likes": 6900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "9",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2397330",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Heroic",
+          "id": "csgo_tm_7175",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/cgeh6n9ll806h1bg2osg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.79",
+        "t1_odds_percent": "52",
+        "t1_score": "2",
+        "t2_odds": "1.93",
+        "t2_odds_percent": "48",
+        "t2_score": "0",
+        "ts": "1788447900",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第3轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "IEM 北京 2026 封闭预选",
+        "end_time": "2026-09-04 23:59:59",
+        "grade": "9",
+        "grade_label": "资格赛A级",
+        "id": "csgo_tt_9293",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8039.png",
+        "mode": "1",
+        "special_color": "663dea",
+        "special_grade_label": "资格赛A级",
+        "start_time": "2026-09-02 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5200,
+        "team2_likes": 4800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    }
+  ]
+}

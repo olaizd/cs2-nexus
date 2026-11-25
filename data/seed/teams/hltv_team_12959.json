@@ -1,0 +1,2074 @@
+{
+  "team_id": "hltv_team_12959",
+  "fetched_at": "2026-11-13T12:48:43.651Z",
+  "overview": {
+    "coach": "ninro",
+    "death": "32899",
+    "draws": "0",
+    "kd_ratio": "0.99",
+    "kill": "32734",
+    "losses": "204",
+    "map_count": "453",
+    "milestone_display": false,
+    "milestones": [],
+    "players": [
+      {
+        "birthday": "2004-09-01",
+        "bonus": "$9,989",
+        "constellation": "https://oss.5eplay.com/player/constellation/chunu.png",
+        "country_en": "Argentina",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/279e8764c2b6e94f21aae58c62f02cd8.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cshghusconkotam81c3g.png",
+        "id": "csgo_pl_20451",
+        "is_conduct": "2",
+        "name": "abizz",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cshghu4conkotam81c30.png",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "辅助"
+        ],
+        "team_id": "hltv_team_12959",
+        "team_logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+        "team_name": "ShindeN",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "",
+        "constellation": "",
+        "country_en": "Argentina",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/279e8764c2b6e94f21aae58c62f02cd8.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cshgk8kconkotam81c6g.png",
+        "id": "csgo_pl_20992",
+        "is_conduct": "",
+        "name": "ivz",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cshgk5sconkotam81c60.png",
+        "position": "首发",
+        "positions": [],
+        "team_id": "hltv_team_12959",
+        "team_logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+        "team_name": "ShindeN",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2000-06-04",
+        "bonus": "$21,137",
+        "constellation": "https://oss.5eplay.com/player/constellation/shuangzi.png",
+        "country_en": "Argentina",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/279e8764c2b6e94f21aae58c62f02cd8.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cuhg8qsconkqmjpn836g.png",
+        "id": "csgo_pl_21155",
+        "is_conduct": "2",
+        "name": "naz",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cuhg8q4conkqmjpn8360.png",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "辅助"
+        ],
+        "team_id": "hltv_team_12959",
+        "team_logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+        "team_name": "ShindeN",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2002-11-14",
+        "bonus": "$10,518",
+        "constellation": "https://oss.5eplay.com/player/constellation/tianxie.png",
+        "country_en": "Argentina",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/279e8764c2b6e94f21aae58c62f02cd8.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cj9gfrkconkqks63am4g.png",
+        "id": "csgo_pl_18554",
+        "is_conduct": "1",
+        "name": "tom1jed",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cj9gfqkconkqks63am40.png",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "指挥",
+          "突破"
+        ],
+        "team_id": "hltv_team_12959",
+        "team_logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+        "team_name": "ShindeN",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "",
+        "constellation": "",
+        "country_en": "Argentina",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/279e8764c2b6e94f21aae58c62f02cd8.jpg",
+        "country_zh": "",
+        "half_portrait": "",
+        "id": "csgo_pl_24749",
+        "is_conduct": "",
+        "name": "guty",
+        "portrait": "",
+        "position": "首发",
+        "positions": [],
+        "team_id": "hltv_team_12959",
+        "team_logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+        "team_name": "ShindeN",
+        "top20_num": "0"
+      }
+    ],
+    "rank_stats": [
+      {
+        "date": "2026-08-17",
+        "rank": "70",
+        "v_rank": "90"
+      },
+      {
+        "date": "2026-08-24",
+        "rank": "87",
+        "v_rank": "93"
+      },
+      {
+        "date": "2026-08-31",
+        "rank": "83",
+        "v_rank": "88"
+      },
+      {
+        "date": "2026-09-07",
+        "rank": "85",
+        "v_rank": "97"
+      },
+      {
+        "date": "2026-09-14",
+        "rank": "80",
+        "v_rank": "100"
+      },
+      {
+        "date": "2026-09-21",
+        "rank": "68",
+        "v_rank": "73"
+      },
+      {
+        "date": "2026-09-28",
+        "rank": "77",
+        "v_rank": "69"
+      },
+      {
+        "date": "2026-10-05",
+        "rank": "60",
+        "v_rank": "76"
+      },
+      {
+        "date": "2026-10-12",
+        "rank": "50",
+        "v_rank": "83"
+      },
+      {
+        "date": "2026-10-19",
+        "rank": "52",
+        "v_rank": "88"
+      },
+      {
+        "date": "2026-10-26",
+        "rank": "57",
+        "v_rank": "85"
+      },
+      {
+        "date": "2026-11-02",
+        "rank": "57",
+        "v_rank": "85"
+      },
+      {
+        "date": "2026-11-09",
+        "rank": "58",
+        "v_rank": "88"
+      },
+      {
+        "date": "2026-11-13",
+        "rank": "58",
+        "v_rank": "90"
+      }
+    ],
+    "win_rate": "55.0%",
+    "wins": "249"
+  },
+  "team_info": {
+    "average_player_age": "24",
+    "bonus": "$54,229",
+    "coach": "ninro",
+    "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/279e8764c2b6e94f21aae58c62f02cd8.jpg",
+    "country_name": "阿根廷",
+    "disp_abbr": "ShindeN",
+    "disp_name": "ShindeN",
+    "id": "hltv_team_12959",
+    "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+    "points": "19",
+    "rank": "58",
+    "region_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/region/d72aencconkpudhr3q1g.png",
+    "region_name": "美洲",
+    "tab_tt_status": "显示",
+    "tag": "",
+    "v_club_integral": "1046",
+    "v_club_rank": "90"
+  },
+  "honors": {
+    "history_honors": [],
+    "major_honors": []
+  },
+  "sessions": [
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399980",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Isurus",
+          "id": "csgo_tm_7653",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/db6qnk4conkip2fe6j9g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.15",
+        "t1_odds_percent": "82",
+        "t1_score": "1",
+        "t2_odds": "5.16",
+        "t2_odds_percent": "18",
+        "t2_score": "2",
+        "ts": "1793463300",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8200,
+        "team2_likes": 1800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399972",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Fluxo",
+          "id": "csgo_tm_11837",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_cldh3i4conkqks63cjn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.20",
+        "t1_odds_percent": "42",
+        "t1_score": "2",
+        "t2_odds": "1.59",
+        "t2_odds_percent": "58",
+        "t2_score": "1",
+        "ts": "1793374500",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4200,
+        "team2_likes": 5800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399971",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Isurus",
+          "id": "csgo_tm_7653",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/db6qnk4conkip2fe6j9g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.15",
+        "t1_odds_percent": "82",
+        "t1_score": "2",
+        "t2_odds": "5.16",
+        "t2_odds_percent": "18",
+        "t2_score": "0",
+        "ts": "1793367300",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8200,
+        "team2_likes": 1800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399814",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Imperial",
+          "id": "csgo_tm_9455",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d2o271cconkqbk3bnl50.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.63",
+        "t1_odds_percent": "36",
+        "t1_score": "2",
+        "t2_odds": "1.45",
+        "t2_odds_percent": "64",
+        "t2_score": "0",
+        "ts": "1792703700",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$15,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站 S4",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9422",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/da169occonkpudhr5atg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-21 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3600,
+        "team2_likes": 6400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399813",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Turma do Pagode",
+          "id": "csgo_tm_9686",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/db6qolcconkip2fe6jbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.4",
+        "t1_odds_percent": "67",
+        "t1_score": "1",
+        "t2_odds": "2.81",
+        "t2_odds_percent": "33",
+        "t2_score": "2",
+        "ts": "1792691100",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$15,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站 S4",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9422",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/da169occonkpudhr5atg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-21 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6700,
+        "team2_likes": 3300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399811",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.91",
+        "t1_odds_percent": "49",
+        "t1_score": "2",
+        "t2_odds": "1.85",
+        "t2_odds_percent": "51",
+        "t2_score": "1",
+        "ts": "1792677600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$15,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站 S4",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9422",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/da169occonkpudhr5atg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-21 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4900,
+        "team2_likes": 5100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "7",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyODEyNjI4NiI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398734",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "CSBOY-MO",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/321123",
+            "url": "https://liveshare.huya.com/iframe/321123?from=qd785&presenterUid=1199652774074"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙ESL副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/479361",
+            "url": "https://liveshare.huya.com/iframe/479361?from=qd785&presenterUid=1560122402"
+          },
+          {
+            "can_jump": 1,
+            "name": "B站副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/34",
+            "url": "https://live.bilibili.com/34?live_from=86001&spm_id_from=333.1387.0.0"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "G2",
+          "id": "csgo_tm_5995",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/chae4nf4nfqe2nie4ung.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "7.25",
+        "t1_odds_percent": "13",
+        "t1_score": "0",
+        "t2_odds": "1.09",
+        "t2_odds_percent": "87",
+        "t2_score": "2",
+        "ts": "1791190800",
+        "tt_stage": " 小组赛",
+        "tt_stage_desc": " 小组赛 第三轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "EPL S24",
+        "bonus": "$1,000,000",
+        "city_name": "波兰，卡托维兹",
+        "color": "ea3e38",
+        "cover": "",
+        "disp_name": "EPL S24",
+        "end_time": "2026-10-12 04:59:59",
+        "grade": "7",
+        "grade_label": "S+赛事",
+        "id": "csgo_tt_8244",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/7441.png",
+        "mode": "2",
+        "special_color": "ea3e38",
+        "special_grade_label": "S+赛事",
+        "start_time": "2026-10-03 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 1300,
+        "team2_likes": 8700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "7",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyODAyMDg3MiI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398726",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "潇洒哥",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/610731",
+            "url": "https://liveshare.huya.com/iframe/610731?from=qd785&presenterUid=1607888466"
+          },
+          {
+            "can_jump": 1,
+            "name": "b站副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/34",
+            "url": "https://live.bilibili.com/34?live_from=86001&spm_id_from=333.1387.0.0"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙ESL副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/479361",
+            "url": "https://liveshare.huya.com/iframe/479361?from=qd785&presenterUid=1560122402"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Legacy",
+          "id": "hltv_team_12468",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/ck9evp4conkqks63bksg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "3.94",
+        "t1_odds_percent": "24",
+        "t1_score": "0",
+        "t2_odds": "1.24",
+        "t2_odds_percent": "76",
+        "t2_score": "2",
+        "ts": "1791104400",
+        "tt_stage": " 小组赛",
+        "tt_stage_desc": " 小组赛 第二轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "EPL S24",
+        "bonus": "$1,000,000",
+        "city_name": "波兰，卡托维兹",
+        "color": "ea3e38",
+        "cover": "",
+        "disp_name": "EPL S24",
+        "end_time": "2026-10-12 04:59:59",
+        "grade": "7",
+        "grade_label": "S+赛事",
+        "id": "csgo_tt_8244",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/7441.png",
+        "mode": "2",
+        "special_color": "ea3e38",
+        "special_grade_label": "S+赛事",
+        "start_time": "2026-10-03 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2400,
+        "team2_likes": 7600,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "7",
+        "high_lights_cfg_list": [
+          {
+            "name": "全场回放",
+            "third_url": "",
+            "url": "https://www.5eplay.com/video_app_common?video=PGlmcmFtZSB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiAgZnJhbWVib3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iIHNyYz0iaHR0cHM6Ly9zMS1zdGF0aWMubXNzdGF0aWMuY29tL3ZvZC1wbGF5ZXItMzYwL2luZGV4Lmh0bWw%2FaWQ9MTEyNzk1MzIyMiI%2BPC9pZnJhbWU%2B&dispmod={DispMod}"
+          }
+        ],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2398720",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "玩机器",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/6979222",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/6979222?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "CSBOY",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/123321",
+            "url": "https://liveshare.huya.com/iframe/123321?from=qd785&presenterUid=10748220"
+          },
+          {
+            "can_jump": 1,
+            "name": "QUQU",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.douyu.com/178432",
+            "url": "https://open.douyu.com/tpl/h5/chain2/FIVEEPlay/178432?version=2.0&bulletComments=1"
+          },
+          {
+            "can_jump": 1,
+            "name": "DANK1NG",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/10188",
+            "url": "https://liveshare.huya.com/iframe/10188?from=qd785&presenterUid=333393123"
+          },
+          {
+            "can_jump": 1,
+            "name": "FF",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/166261",
+            "url": "https://liveshare.huya.com/iframe/166261?from=qd785&presenterUid=9284975"
+          },
+          {
+            "can_jump": 1,
+            "name": "259",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://live.bilibili.com/1883358196",
+            "url": "https://www.bilibili.com/blackboard/live/live-activity-player.html?cid=1883358196&quality=0"
+          },
+          {
+            "can_jump": 1,
+            "name": "李文哲",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/640056",
+            "url": "https://liveshare.huya.com/iframe/640056?from=qd785&presenterUid=1279513816099"
+          },
+          {
+            "can_jump": 1,
+            "name": "虎牙ESL副舞台",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/479361",
+            "url": "https://liveshare.huya.com/iframe/479361?from=qd785&presenterUid=1560122402"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Spirit",
+          "id": "csgo_tm_7020",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cgchcqhll806h1bg2lt0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "15.28",
+        "t1_odds_percent": "6",
+        "t1_score": "2",
+        "t2_odds": "1.01",
+        "t2_odds_percent": "94",
+        "t2_score": "1",
+        "ts": "1791029100",
+        "tt_stage": " 小组赛",
+        "tt_stage_desc": " 小组赛 第一轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "EPL S24",
+        "bonus": "$1,000,000",
+        "city_name": "波兰，卡托维兹",
+        "color": "ea3e38",
+        "cover": "",
+        "disp_name": "EPL S24",
+        "end_time": "2026-10-12 04:59:59",
+        "grade": "7",
+        "grade_label": "S+赛事",
+        "id": "csgo_tt_8244",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/7441.png",
+        "mode": "2",
+        "special_color": "ea3e38",
+        "special_grade_label": "S+赛事",
+        "start_time": "2026-10-03 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 600,
+        "team2_likes": 9400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 1
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398268",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Fluxo",
+          "id": "csgo_tm_11837",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_cldh3i4conkqks63cjn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.95",
+        "t1_odds_percent": "47",
+        "t1_score": "2",
+        "t2_odds": "1.78",
+        "t2_odds_percent": "53",
+        "t2_score": "0",
+        "ts": "1789927200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 季军赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4700,
+        "team2_likes": 5300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398267",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.68",
+        "t1_odds_percent": "56",
+        "t1_score": "2",
+        "t2_odds": "2.09",
+        "t2_odds_percent": "44",
+        "t2_score": "0",
+        "ts": "1789851600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5600,
+        "team2_likes": 4400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398264",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Turma do Pagode",
+          "id": "csgo_tm_9686",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3tqf4nfq43340vkrg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1789768800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398255",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Fluxo",
+          "id": "csgo_tm_11837",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_cldh3i4conkqks63cjn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1789659000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 第2轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398254",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "EHISTO BASE",
+          "id": "hltv_team_13696",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.35",
+        "t1_odds_percent": "69",
+        "t1_score": "2",
+        "t2_odds": "3.08",
+        "t2_odds_percent": "31",
+        "t2_score": "0",
+        "ts": "1789650000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 第1轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6900,
+        "team2_likes": 3100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2397765",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Fluxo",
+          "id": "csgo_tm_11837",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_cldh3i4conkqks63cjn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1789167300",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第3轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "南美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特大师赛 2026 南美封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9242",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dab255sconkpudhr5cd0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2397763",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "paiN",
+          "id": "csgo_tm_4773",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_chae3jf4nfqe2nie4un0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.35",
+        "t1_odds_percent": "39",
+        "t1_score": "2",
+        "t2_odds": "1.52",
+        "t2_odds_percent": "61",
+        "t2_score": "0",
+        "ts": "1789147500",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第2轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "南美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特大师赛 2026 南美封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9242",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dab255sconkpudhr5cd0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3900,
+        "team2_likes": 6100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2397758",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Turma do Pagode",
+          "id": "csgo_tm_9686",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3tqf4nfq43340vkrg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.43",
+        "t1_odds_percent": "64",
+        "t1_score": "2",
+        "t2_odds": "2.58",
+        "t2_odds_percent": "36",
+        "t2_score": "1",
+        "ts": "1789048800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第1轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "南美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特大师赛 2026 南美封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9242",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dab255sconkpudhr5cd0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6400,
+        "team2_likes": 3600,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2397728",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Fluxo",
+          "id": "csgo_tm_11837",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_cldh3i4conkqks63cjn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1788962400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 第1轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "南美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特大师赛 2026 南美封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9242",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dab255sconkpudhr5cd0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2397154",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Imperial",
+          "id": "csgo_tm_9455",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d2o271cconkqbk3bnl50.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.44",
+        "t1_odds_percent": "38",
+        "t1_score": "2",
+        "t2_odds": "1.48",
+        "t2_odds_percent": "62",
+        "t2_score": "1",
+        "ts": "1788210000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$17,500",
+        "city_name": "南美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ESL 挑战者联赛 第52赛季 南美杯 1",
+        "end_time": "2026-09-01 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9330",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9uo2csconkpudhr5arg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-08-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3800,
+        "team2_likes": 6200,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2397153",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Fluxo",
+          "id": "csgo_tm_11837",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_cldh3i4conkqks63cjn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1788123600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$17,500",
+        "city_name": "南美，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ESL 挑战者联赛 第52赛季 南美杯 1",
+        "end_time": "2026-09-01 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9330",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9uo2csconkpudhr5arg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-08-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    }
+  ]
+}

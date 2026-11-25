@@ -1,0 +1,1921 @@
+{
+  "team_id": "hltv_team_12144",
+  "fetched_at": "2026-11-13T12:48:43.149Z",
+  "overview": {
+    "coach": "tge",
+    "death": "67159",
+    "draws": "0",
+    "kd_ratio": "1.02",
+    "kill": "68199",
+    "losses": "369",
+    "map_count": "890",
+    "milestone_display": false,
+    "milestones": [],
+    "players": [
+      {
+        "birthday": "",
+        "bonus": "$16,764",
+        "constellation": "",
+        "country_en": "Brazil",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/6fd36cae59655c447bc104cebc5f1a13.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d1eb5dkconkt3legepcg.png",
+        "id": "csgo_pl_20185",
+        "is_conduct": "2",
+        "name": "cass1n",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d1eb5ccconkt3legepc0.png",
+        "position": "首发",
+        "positions": [
+          "狙击手"
+        ],
+        "team_id": "hltv_team_12144",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+        "team_name": "BESTIA",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2003-02-24",
+        "bonus": "$66,604",
+        "constellation": "https://oss.5eplay.com/player/constellation/shuangyu.png",
+        "country_en": "Argentina",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/279e8764c2b6e94f21aae58c62f02cd8.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d1eb60cconkt3legepdg.png",
+        "id": "csgo_pl_20607",
+        "is_conduct": "2",
+        "name": "buda",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d1eb5vcconkt3legepd0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "突破"
+        ],
+        "team_id": "hltv_team_12144",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+        "team_name": "BESTIA",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "$15,751",
+        "constellation": "",
+        "country_en": "Uruguay",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/e0659af64c9224039def66c87cb00de6.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d1eb4occonkt3legepbg.png",
+        "id": "csgo_pl_24863",
+        "is_conduct": "2",
+        "name": "timo",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d1eb4ncconkt3legepb0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_12144",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+        "team_name": "BESTIA",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2003-08-28",
+        "bonus": "$9,180",
+        "constellation": "https://oss.5eplay.com/player/constellation/chunu.png",
+        "country_en": "Argentina",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/279e8764c2b6e94f21aae58c62f02cd8.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cvmvglsconkt3lege14g.png",
+        "id": "csgo_pl_19985",
+        "is_conduct": "2",
+        "name": "nacho",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cvmvgl4conkt3lege140.png",
+        "position": "替补",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_12144",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+        "team_name": "BESTIA",
+        "top20_num": "0"
+      }
+    ],
+    "rank_stats": [
+      {
+        "date": "2026-08-17",
+        "rank": "63",
+        "v_rank": "73"
+      },
+      {
+        "date": "2026-08-24",
+        "rank": "66",
+        "v_rank": "80"
+      },
+      {
+        "date": "2026-08-31",
+        "rank": "75",
+        "v_rank": "82"
+      },
+      {
+        "date": "2026-09-07",
+        "rank": "89",
+        "v_rank": "86"
+      },
+      {
+        "date": "2026-09-14",
+        "rank": "90",
+        "v_rank": "96"
+      },
+      {
+        "date": "2026-09-21",
+        "rank": "65",
+        "v_rank": "54"
+      },
+      {
+        "date": "2026-09-28",
+        "rank": "78",
+        "v_rank": "61"
+      },
+      {
+        "date": "2026-10-05",
+        "rank": "73",
+        "v_rank": "67"
+      },
+      {
+        "date": "2026-10-12",
+        "rank": "72",
+        "v_rank": "69"
+      },
+      {
+        "date": "2026-10-19",
+        "rank": "76",
+        "v_rank": "71"
+      },
+      {
+        "date": "2026-10-26",
+        "rank": "67",
+        "v_rank": "61"
+      },
+      {
+        "date": "2026-11-02",
+        "rank": "59",
+        "v_rank": "49"
+      },
+      {
+        "date": "2026-11-09",
+        "rank": "57",
+        "v_rank": "50"
+      },
+      {
+        "date": "2026-11-13",
+        "rank": "57",
+        "v_rank": "48"
+      }
+    ],
+    "win_rate": "58.5%",
+    "wins": "521"
+  },
+  "team_info": {
+    "average_player_age": "23",
+    "bonus": "$267,607",
+    "coach": "tge",
+    "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/6fd36cae59655c447bc104cebc5f1a13.jpg",
+    "country_name": "巴西",
+    "disp_abbr": "BESTIA",
+    "disp_name": "BESTIA",
+    "id": "hltv_team_12144",
+    "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+    "points": "19",
+    "rank": "57",
+    "region_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/region/d72aencconkpudhr3q1g.png",
+    "region_name": "美洲",
+    "tab_tt_status": "显示",
+    "tag": "",
+    "v_club_integral": "1267",
+    "v_club_rank": "48"
+  },
+  "honors": {
+    "history_honors": [],
+    "major_honors": []
+  },
+  "sessions": [
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399988",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BARCA",
+          "id": "hltv_team_14107",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/dbcn46kconkip2fe76c0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.5",
+        "t1_odds_percent": "62",
+        "t1_score": "2",
+        "t2_odds": "2.49",
+        "t2_odds_percent": "38",
+        "t2_score": "1",
+        "ts": "1793564100",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 季军赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6200,
+        "team2_likes": 3800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399986",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "100 Thieves",
+          "id": "csgo_tm_8474",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d6kfct4conkpudhr3n40.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "4.22",
+        "t1_odds_percent": "22",
+        "t1_score": "0",
+        "t2_odds": "1.21",
+        "t2_odds_percent": "78",
+        "t2_score": "2",
+        "ts": "1793541600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2200,
+        "team2_likes": 7800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399982",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Procyon",
+          "id": "csgo_tm_10997",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d85e59kconkpudhr4oqg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.34",
+        "t1_odds_percent": "70",
+        "t1_score": "2",
+        "t2_odds": "3.12",
+        "t2_odds_percent": "30",
+        "t2_score": "0",
+        "ts": "1793475900",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 7000,
+        "team2_likes": 3000,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399976",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.21",
+        "t1_odds_percent": "42",
+        "t1_score": "1",
+        "t2_odds": "1.62",
+        "t2_odds_percent": "58",
+        "t2_score": "2",
+        "ts": "1793395500",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4200,
+        "team2_likes": 5800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399975",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Bth",
+          "id": "csgo_tm_11226",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/db87aecconkip2fe6nug.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.05",
+        "t1_odds_percent": "90",
+        "t1_score": "2",
+        "t2_odds": "9.33",
+        "t2_odds_percent": "10",
+        "t2_score": "0",
+        "ts": "1793387400",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9000,
+        "team2_likes": 1000,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399819",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "paiN",
+          "id": "csgo_tm_4773",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_chae3jf4nfqe2nie4un0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.01",
+        "t1_odds_percent": "47",
+        "t1_score": "2",
+        "t2_odds": "1.76",
+        "t2_odds_percent": "53",
+        "t2_score": "1",
+        "ts": "1792951200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$15,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站 S4",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9422",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/da169occonkpudhr5atg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-21 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4700,
+        "team2_likes": 5300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399818",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Imperial",
+          "id": "csgo_tm_9455",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d2o271cconkqbk3bnl50.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.29",
+        "t1_odds_percent": "41",
+        "t1_score": "0",
+        "t2_odds": "1.58",
+        "t2_odds_percent": "59",
+        "t2_score": "2",
+        "ts": "1792878900",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$15,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站 S4",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9422",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/da169occonkpudhr5atg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-21 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4100,
+        "team2_likes": 5900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399815",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Galorys",
+          "id": "hltv_team_12677",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cn6n7usconkqks63dv8g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.69",
+        "t1_odds_percent": "55",
+        "t1_score": "2",
+        "t2_odds": "2.11",
+        "t2_odds_percent": "45",
+        "t2_score": "0",
+        "ts": "1792778400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$15,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站 S4",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9422",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/da169occonkpudhr5atg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-21 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5500,
+        "team2_likes": 4500,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399812",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Imperial",
+          "id": "csgo_tm_9455",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d2o271cconkqbk3bnl50.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "3.17",
+        "t1_odds_percent": "30",
+        "t1_score": "0",
+        "t2_odds": "1.33",
+        "t2_odds_percent": "70",
+        "t2_score": "2",
+        "ts": "1792691100",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$15,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站 S4",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9422",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/da169occonkpudhr5atg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-21 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3000,
+        "team2_likes": 7000,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399811",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.85",
+        "t1_odds_percent": "51",
+        "t1_score": "2",
+        "t2_odds": "1.91",
+        "t2_odds_percent": "49",
+        "t2_score": "1",
+        "ts": "1792677600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$15,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站 S4",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9422",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/da169occonkpudhr5atg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-21 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5100,
+        "team2_likes": 4900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398295",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Voca",
+          "id": "hltv_team_13499",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d6h5odsconkpudhr3mqg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.99",
+        "t1_odds_percent": "46",
+        "t1_score": "0",
+        "t2_odds": "1.74",
+        "t2_odds_percent": "54",
+        "t2_score": "2",
+        "ts": "1790385300",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4600,
+        "team2_likes": 5400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398292",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "M80",
+          "id": "hltv_team_12376",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d3r1ojsconkqbk3bnu4g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.85",
+        "t1_odds_percent": "32",
+        "t1_score": "2",
+        "t2_odds": "1.35",
+        "t2_odds_percent": "68",
+        "t2_score": "0",
+        "ts": "1790366400",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3200,
+        "team2_likes": 6800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398269",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Bounty Hunters",
+          "id": "hltv_team_12776",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_co9lkskconklgsjvh460.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.6",
+        "t1_odds_percent": "58",
+        "t1_score": "0",
+        "t2_odds": "2.19",
+        "t2_odds_percent": "42",
+        "t2_score": "2",
+        "ts": "1789938000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5800,
+        "team2_likes": 4200,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398267",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ShindeN",
+          "id": "hltv_team_12959",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/12959.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.09",
+        "t1_odds_percent": "44",
+        "t1_score": "2",
+        "t2_odds": "1.68",
+        "t2_odds_percent": "56",
+        "t2_score": "0",
+        "ts": "1789851600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4400,
+        "team2_likes": 5600,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398265",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Imperial",
+          "id": "csgo_tm_9455",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d2o271cconkqbk3bnl50.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1789779000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398261",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "CLANSBR",
+          "id": "hltv_team_14040",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1789698000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398259",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Galorys",
+          "id": "hltv_team_12677",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cn6n7usconkqks63dv8g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "0",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1789688100",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398258",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "CLANSBR",
+          "id": "hltv_team_14040",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.03",
+        "t1_odds_percent": "92",
+        "t1_score": "2",
+        "t2_odds": "11",
+        "t2_odds_percent": "8",
+        "t2_score": "0",
+        "ts": "1789680600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "巴西，库里提巴",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Circuit X 库里蒂巴站・2026 秋季赛",
+        "end_time": "2026-09-21 09:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9335",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/damedccconkpudhr5ln0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9200,
+        "team2_likes": 800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "9",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2397864",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "VP",
+          "id": "csgo_tm_5378",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/ct1uoncconkotam81hkg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.51",
+        "t1_odds_percent": "37",
+        "t1_score": "0",
+        "t2_odds": "1.45",
+        "t2_odds_percent": "63",
+        "t2_score": "2",
+        "ts": "1789027200",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "Thunderpick World Championship 2026 Closed Qualifier",
+        "abbr_zh": "TP 世界锦标赛 2026 封闭预选",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "TP 世界锦标赛 2026 封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "9",
+        "grade_label": "资格赛A级",
+        "id": "csgo_tt_9308",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8067.png",
+        "mode": "1",
+        "special_color": "663dea",
+        "special_grade_label": "资格赛A级",
+        "start_time": "2026-09-09 18:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3700,
+        "team2_likes": 6300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "9",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2397858",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Heroic",
+          "id": "csgo_tm_7175",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/cgeh6n9ll806h1bg2osg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "4.33",
+        "t1_odds_percent": "21",
+        "t1_score": "2",
+        "t2_odds": "1.16",
+        "t2_odds_percent": "79",
+        "t2_score": "0",
+        "ts": "1788951600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "Thunderpick World Championship 2026 Closed Qualifier",
+        "abbr_zh": "TP 世界锦标赛 2026 封闭预选",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "TP 世界锦标赛 2026 封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "9",
+        "grade_label": "资格赛A级",
+        "id": "csgo_tt_9308",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8067.png",
+        "mode": "1",
+        "special_color": "663dea",
+        "special_grade_label": "资格赛A级",
+        "start_time": "2026-09-09 18:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2100,
+        "team2_likes": 7900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    }
+  ]
+}

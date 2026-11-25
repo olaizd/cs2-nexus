@@ -1,0 +1,2543 @@
+{
+  "team_id": "csgo_tm_5991",
+  "fetched_at": "2026-11-13T12:48:40.332Z",
+  "overview": {
+    "coach": "wasiNk",
+    "death": "105641",
+    "draws": "1",
+    "kd_ratio": "1.02",
+    "kill": "107438",
+    "losses": "566",
+    "map_count": "1199",
+    "milestone_display": false,
+    "milestones": [],
+    "players": [
+      {
+        "birthday": "1997-07-06",
+        "bonus": "$220,986",
+        "constellation": "https://oss.5eplay.com/player/constellation/juxie.png",
+        "country_en": "France",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/c9d14053c27e52655034cd493f2a71e5.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d787s2kconkpudhr3r20.png",
+        "id": "csgo_pl_13138",
+        "is_conduct": "2",
+        "name": "Maka",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d787s1kconkpudhr3r1g.webp",
+        "position": "首发",
+        "positions": [
+          "狙击手"
+        ],
+        "team_id": "csgo_tm_5991",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+        "team_name": "Envy",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "1998-04-06",
+        "bonus": "$193,647",
+        "constellation": "https://oss.5eplay.com/player/constellation/muyang.png",
+        "country_en": "France",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/c9d14053c27e52655034cd493f2a71e5.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d787rssconkpudhr3r10.png",
+        "id": "csgo_pl_13497",
+        "is_conduct": "2",
+        "name": "Lucky",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d787rr4conkpudhr3r0g.webp",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "突破"
+        ],
+        "team_id": "csgo_tm_5991",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+        "team_name": "Envy",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2003-01-15",
+        "bonus": "$303,995",
+        "constellation": "https://oss.5eplay.com/player/constellation/mojie.png",
+        "country_en": "France",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/c9d14053c27e52655034cd493f2a71e5.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d82q9o4conkpudhr4nfg.png",
+        "id": "csgo_pl_14176",
+        "is_conduct": "2",
+        "name": "misutaaa",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d82q9msconkpudhr4nf0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "csgo_tm_5991",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+        "team_name": "Envy",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2001-08-17",
+        "bonus": "$12,474",
+        "constellation": "https://oss.5eplay.com/player/constellation/shizi.png",
+        "country_en": "France",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/c9d14053c27e52655034cd493f2a71e5.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d93i48cconkpudhr54ug.png",
+        "id": "csgo_pl_20482",
+        "is_conduct": "2",
+        "name": "Kursy",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d93i47kconkpudhr54u0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "csgo_tm_5991",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+        "team_name": "Envy",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2003-11-08",
+        "bonus": "$141,973",
+        "constellation": "https://oss.5eplay.com/player/constellation/tianxie.png",
+        "country_en": "France",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/c9d14053c27e52655034cd493f2a71e5.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d787recconkpudhr3qug.png",
+        "id": "csgo_pl_21969",
+        "is_conduct": "1",
+        "name": "Graviti",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d787rcsconkpudhr3qu0.webp",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "指挥"
+        ],
+        "team_id": "csgo_tm_5991",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+        "team_name": "Envy",
+        "top20_num": "0"
+      }
+    ],
+    "rank_stats": [
+      {
+        "date": "2026-10-05",
+        "rank": "21",
+        "v_rank": "0"
+      },
+      {
+        "date": "2026-10-12",
+        "rank": "20",
+        "v_rank": "0"
+      },
+      {
+        "date": "2026-10-19",
+        "rank": "22",
+        "v_rank": "29"
+      },
+      {
+        "date": "2026-10-26",
+        "rank": "26",
+        "v_rank": "40"
+      },
+      {
+        "date": "2026-11-02",
+        "rank": "28",
+        "v_rank": "43"
+      },
+      {
+        "date": "2026-11-09",
+        "rank": "28",
+        "v_rank": "44"
+      },
+      {
+        "date": "2026-11-13",
+        "rank": "28",
+        "v_rank": "45"
+      }
+    ],
+    "win_rate": "52.8%",
+    "wins": "632"
+  },
+  "team_info": {
+    "average_player_age": "26",
+    "bonus": "$2,132,131",
+    "coach": "wasiNk",
+    "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/c9d14053c27e52655034cd493f2a71e5.jpg",
+    "country_name": "法国",
+    "disp_abbr": "Envy",
+    "disp_name": "Envy",
+    "id": "csgo_tm_5991",
+    "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+    "points": "72",
+    "rank": "28",
+    "region_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/region/Europe.png",
+    "region_name": "欧洲",
+    "tab_tt_status": "显示",
+    "tag": "",
+    "v_club_integral": "1301",
+    "v_club_rank": "45"
+  },
+  "honors": {
+    "history_honors": [
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "CS:GO Asia Championships 2018",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_3714",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "DreamHack Open Winter 2017",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_2574",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "WESG 2016 World Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_2564",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvuekf4nfqe2nie4c3g.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ECS Season 2 Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_2367",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "DreamHack ZOWIE Open Bucharest 2016",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_2112",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvuicf4nfqe2nie4clg.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "DreamHack Masters Malmö 2016",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_2099",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "Game Show Global eSports Cup 2016 Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_2013",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvuj374nfqe2nie4cp0.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "SL i-League StarSeries XIV Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1978",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ESL ESEA Pro League Season 2 Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1986",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvrptf4nfqe2nie47kg.png",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "DreamHack Open 克卢日-纳波卡 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1617",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "Gfinity 2015 Champion of Champions",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1621",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "DreamHack Open London 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1763",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvslgf4nfqe2nie48tg.png",
+        "honor_id": "",
+        "rank": "2nd",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ESL One Cologne 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1666",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "IEM Gamescom 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1861",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ESWC 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1707",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "Gfinity 2015 Summer Masters 1",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1620",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "2nd",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "SLTV StarSeries XIII Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1607",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "2nd",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "DreamHack Open Tours 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1613",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ESL Pro League Winter 2014/15 Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1702",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "SLTV StarSeries XII Finals",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1605",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "Gfinity 2015 Spring Masters 1",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1618",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvsoon4nfqe2nie494g.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ESL One Katowice 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1611",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "3rd",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "Inferno Online Pantamera Challenge",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1622",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      }
+    ],
+    "major_honors": [
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvrptf4nfqe2nie47kg.png",
+        "honor_id": "",
+        "rank": "1st",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "DreamHack Open 克卢日-纳波卡 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1617",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvslgf4nfqe2nie48tg.png",
+        "honor_id": "",
+        "rank": "2nd",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ESL One Cologne 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1666",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      },
+      {
+        "cup_url": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cgvsoon4nfqe2nie494g.png",
+        "honor_id": "",
+        "rank": "3-4th",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "ESL One Katowice 2015",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_1611",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      }
+    ]
+  },
+  "sessions": [
+    {
+      "mc_info": {
+        "bouts_result": [
+          "",
+          "",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2400521",
+        "live_cfg_list": [],
+        "match_status": "0",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Metizport",
+          "id": "csgo_tm_11641",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_crl43ekconkotam80sdg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "draw",
+        "status": "upcoming",
+        "t1_odds": "1.58",
+        "t1_odds_percent": "59",
+        "t1_score": "0",
+        "t2_odds": "2.26",
+        "t2_odds_percent": "41",
+        "t2_score": "0",
+        "ts": "1794942000",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$34,208",
+        "city_name": "捷克共和国 - 布尔诺",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": " Tipsport RUSH 布尔诺 2026",
+        "end_time": "2026-11-22 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9273",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8166.png",
+        "mode": "0",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-20 00:00:00",
+        "status": "upcoming"
+      },
+      "like_data": {
+        "team1_likes": 5900,
+        "team2_likes": 4100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399875",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "GL",
+          "id": "csgo_tm_9928",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7ldoasconkpudhr4da0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.10",
+        "t1_odds_percent": "44",
+        "t1_score": "2",
+        "t2_odds": "1.65",
+        "t2_odds_percent": "56",
+        "t2_score": "0",
+        "ts": "1793217300",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$50,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "RLG特斯拉杯 2026",
+        "end_time": "2026-10-29 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9434",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbc7bb4conkip2fe75c0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-27 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4400,
+        "team2_likes": 5600,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399874",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Luminosity",
+          "id": "csgo_tm_6290",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3qa74nfq43340uuo0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2",
+        "t1_odds_percent": "47",
+        "t1_score": "1",
+        "t2_odds": "1.76",
+        "t2_odds_percent": "53",
+        "t2_score": "2",
+        "ts": "1793205600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$50,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "RLG特斯拉杯 2026",
+        "end_time": "2026-10-29 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9434",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbc7bb4conkip2fe75c0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-27 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4700,
+        "team2_likes": 5300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399870",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "GL",
+          "id": "csgo_tm_9928",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7ldoasconkpudhr4da0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.59",
+        "t1_odds_percent": "59",
+        "t1_score": "1",
+        "t2_odds": "2.28",
+        "t2_odds_percent": "41",
+        "t2_score": "2",
+        "ts": "1793122200",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$50,000",
+        "city_name": "塞尔维亚，贝尔格莱德",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "RLG特斯拉杯 2026",
+        "end_time": "2026-10-29 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9434",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbc7bb4conkip2fe75c0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-27 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5900,
+        "team2_likes": 4100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399628",
+        "live_cfg_list": [
+          {
+            "can_jump": 1,
+            "name": "莱昂凯",
+            "native_link": "",
+            "player_type": "h5",
+            "third_url": "https://www.huya.com/314957",
+            "url": "https://liveshare.huya.com/iframe/314957?from=qd785&presenterUid=1182498550"
+          }
+        ],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FaZe",
+          "id": "csgo_tm_6667",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d818n3cconkpudhr4jmg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.4",
+        "t1_odds_percent": "39",
+        "t1_score": "1",
+        "t2_odds": "1.53",
+        "t2_odds_percent": "61",
+        "t2_score": "2",
+        "ts": "1792597500",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第2轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$35,000",
+        "city_name": "罗马尼亚，布加勒斯特",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DraculaN 第7季",
+        "end_time": "2026-10-23 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9312",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbbdlisconkip2fe7220.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-19 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3900,
+        "team2_likes": 6100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399620",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Infinite",
+          "id": "csgo_tm_10823",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3v374nfq43340vrlg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.24",
+        "t1_odds_percent": "76",
+        "t1_score": "2",
+        "t2_odds": "3.80",
+        "t2_odds_percent": "24",
+        "t2_score": "0",
+        "ts": "1792515600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第1轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$35,000",
+        "city_name": "罗马尼亚，布加勒斯特",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DraculaN 第7季",
+        "end_time": "2026-10-23 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9312",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbbdlisconkip2fe7220.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-19 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 7600,
+        "team2_likes": 2400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399612",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BASEMENT BOYS",
+          "id": "hltv_team_13181",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cv5upikconkt3legds1g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.26",
+        "t1_odds_percent": "74",
+        "t1_score": "0",
+        "t2_odds": "3.63",
+        "t2_odds_percent": "26",
+        "t2_score": "2",
+        "ts": "1792494000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 第1轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$35,000",
+        "city_name": "罗马尼亚，布加勒斯特",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DraculaN 第7季",
+        "end_time": "2026-10-23 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9312",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbbdlisconkip2fe7220.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-19 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 7400,
+        "team2_likes": 2600,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399260",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "MIBR",
+          "id": "csgo_tm_9215",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cgcl8j1ll806h1bg2nn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.51",
+        "t1_odds_percent": "37",
+        "t1_score": "0",
+        "t2_odds": "1.49",
+        "t2_odds_percent": "63",
+        "t2_score": "2",
+        "ts": "1792073400",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$80,000",
+        "city_name": "瑞典，斯德哥尔摩",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Stake Pulse Beat 第3季",
+        "end_time": "2026-10-17 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9223",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9g33ecconkpudhr56q0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-12 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3700,
+        "team2_likes": 6300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_db6p89kconkip2fe6j0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399137",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Heroic",
+          "id": "csgo_tm_7175",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/cgeh6n9ll806h1bg2osg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.51",
+        "t1_odds_percent": "37",
+        "t1_score": "2",
+        "t2_odds": "1.49",
+        "t2_odds_percent": "63",
+        "t2_score": "1",
+        "ts": "1792058400",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$80,000",
+        "city_name": "瑞典，斯德哥尔摩",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Stake Pulse Beat 第3季",
+        "end_time": "2026-10-17 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9223",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9g33ecconkpudhr56q0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-12 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3700,
+        "team2_likes": 6300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2345568",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "MAD Lions",
+          "id": "csgo_tm_8362",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3s9v4nfq43340vcm0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1606917600",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$1,000,000",
+        "city_name": "Europe-Europe (Online)",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "Flashpoint 2",
+        "end_time": "2020-12-06 11:00:00",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_5577",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5577.png",
+        "mode": "0",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2020-11-10 11:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2345565",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BIG",
+          "id": "csgo_tm_7532",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cgdr7u9ll806h1bg2os0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1606759500",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$1,000,000",
+        "city_name": "Europe-Europe (Online)",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "Flashpoint 2",
+        "end_time": "2020-12-06 11:00:00",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_5577",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5577.png",
+        "mode": "0",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2020-11-10 11:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2345309",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Gen.G",
+          "id": "csgo_tm_10514",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3uof4nfq43340vpqg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1606064100",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$1,000,000",
+        "city_name": "Europe-Europe (Online)",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "Flashpoint 2",
+        "end_time": "2020-12-06 11:00:00",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_5577",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5577.png",
+        "mode": "0",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2020-11-10 11:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2345300",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "MIBR",
+          "id": "csgo_tm_9215",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cgcl8j1ll806h1bg2nn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1605283200",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$1,000,000",
+        "city_name": "Europe-Europe (Online)",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "Flashpoint 2",
+        "end_time": "2020-12-06 11:00:00",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_5577",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5577.png",
+        "mode": "0",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2020-11-10 11:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "2",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2345293",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "forZe",
+          "id": "csgo_tm_8135",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cfct2rhll806h1bg182g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1605015000",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$1,000,000",
+        "city_name": "Europe-Europe (Online)",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "Flashpoint 2",
+        "end_time": "2020-12-06 11:00:00",
+        "grade": "2",
+        "grade_label": "S级赛事",
+        "id": "csgo_tt_5577",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5577.png",
+        "mode": "0",
+        "special_color": "663dea",
+        "special_grade_label": "S级赛事",
+        "start_time": "2020-11-10 11:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2342404",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "MIBR",
+          "id": "csgo_tm_9215",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cgcl8j1ll806h1bg2nn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "0",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1592865300",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "3 spots in cs_summit 6 North America",
+        "city_name": "北美（线上）",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "cs_summit 6 北美地区资格赛",
+        "end_time": "2020-06-23 10:00:00",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_5358",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5358.png",
+        "mode": "0",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2020-06-22 10:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2342207",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "TeamOne",
+          "id": "csgo_tm_6947",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3qnf4nfq43340v2u0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "0",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1592852400",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "3 spots in cs_summit 6 North America",
+        "city_name": "北美（线上）",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "cs_summit 6 北美地区资格赛",
+        "end_time": "2020-06-23 10:00:00",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_5358",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5358.png",
+        "mode": "0",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2020-06-22 10:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2341138",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "100 Thieves",
+          "id": "csgo_tm_8474",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3sef4nfq43340vde0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1589057100",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$60,000",
+        "city_name": "North America-North America (Online)",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "ESL One: Road to Rio - North America",
+        "end_time": "2020-05-10 10:00:00",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_5279",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5279.png",
+        "mode": "0",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2020-04-22 10:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2341134",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "C9",
+          "id": "csgo_tm_5752",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/ch9nprv4nfqe2nie4se0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1588795200",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$60,000",
+        "city_name": "North America-North America (Online)",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "ESL One: Road to Rio - North America",
+        "end_time": "2020-05-10 10:00:00",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_5279",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5279.png",
+        "mode": "0",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2020-04-22 10:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2340948",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BNB",
+          "id": "csgo_tm_9799",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_cjt8m5cconkqks63b85g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1588536600",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$60,000",
+        "city_name": "North America-North America (Online)",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "ESL One: Road to Rio - North America",
+        "end_time": "2020-05-10 10:00:00",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_5279",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5279.png",
+        "mode": "0",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2020-04-22 10:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "3",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Envy",
+          "id": "csgo_tm_5991",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3q474nfq43340ut10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2340942",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "MIBR",
+          "id": "csgo_tm_9215",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_cgcl8j1ll806h1bg2nn0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1588363500",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$60,000",
+        "city_name": "North America-North America (Online)",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "ESL One: Road to Rio - North America",
+        "end_time": "2020-05-10 10:00:00",
+        "grade": "3",
+        "grade_label": "A级赛事",
+        "id": "csgo_tt_5279",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/5279.png",
+        "mode": "0",
+        "special_color": "663dea",
+        "special_grade_label": "A级赛事",
+        "start_time": "2020-04-22 10:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    }
+  ]
+}

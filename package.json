@@ -1,0 +1,18 @@
+{
+  "name": "cs2-nexus",
+  "version": "1.0.0",
+  "description": "CS2 NEXUS - 科幻风 CS2 赛事战术终端",
+  "main": "main.js",
+  "author": "CS2 NEXUS",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "collect": "node scripts/collect-data.cjs",
+    "pack": "electron-packager . CS2-NEXUS --platform=win32 --arch=x64 --out=F:/工作区/cs2-nexus/release --overwrite --asar --icon=assets/icon.ico"
+  },
+  "devDependencies": {
+    "electron": "^38.2.0",
+    "electron-packager": "^17.1.2"
+  }
+}

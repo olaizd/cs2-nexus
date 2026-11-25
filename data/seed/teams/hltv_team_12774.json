@@ -1,0 +1,2091 @@
+{
+  "team_id": "hltv_team_12774",
+  "fetched_at": "2026-11-13T12:48:42.767Z",
+  "overview": {
+    "coach": "AZR",
+    "death": "24011",
+    "draws": "0",
+    "kd_ratio": "1.08",
+    "kill": "25898",
+    "losses": "138",
+    "map_count": "356",
+    "milestone_display": true,
+    "milestones": [
+      {
+        "achieve_time": "2025-11-26",
+        "achieve_type": "7454",
+        "bout_id": "csgo_mc_2388045_1",
+        "country_logo": "",
+        "country_name": "",
+        "created_at": "2025-11-26 01:35:48",
+        "detail": "本局以13:1领先对手12分获胜",
+        "dimension": "tt",
+        "dimension_text": "本 赛 事",
+        "honor_icon": "https://oss.5eplay.com/cloudx/p/database/csgo/honor/shandianzhan_light.png",
+        "honor_icon_black": "https://oss.5eplay.com/cloudx/p/database/csgo/honor/shandianzhan_dark.png",
+        "honor_text": "闪电战",
+        "id": "7454",
+        "jump_link": "fiveeplay://5eplay.com/battle/detail?alias=csgo_mc_2388045&tab=52&boutIndex=0&selectBout=1",
+        "jump_type": "match",
+        "match_id": "csgo_mc_2388045",
+        "player_id": "",
+        "player_name": "",
+        "portrait": "",
+        "team": {
+          "team_id": "hltv_team_12774",
+          "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "team_name": "FlyQuest"
+        },
+        "tt_info": {
+          "tt_id": "csgo_tt_8504",
+          "tt_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d13q1l4conkt3legejpg.png",
+          "tt_name": "StarLadder布达佩斯Major 2025 第一阶段"
+        },
+        "type": "team",
+        "unit": "",
+        "values": "12"
+      },
+      {
+        "achieve_time": "2025-02-15",
+        "achieve_type": "3806",
+        "bout_id": "csgo_mc_2379335_1",
+        "country_logo": "",
+        "country_name": "",
+        "created_at": "2025-02-15 17:04:27",
+        "detail": "本局以1:13领先对手12分获胜",
+        "dimension": "tt",
+        "dimension_text": "本 赛 事",
+        "honor_icon": "https://oss.5eplay.com/cloudx/p/database/csgo/honor/shandianzhan_light.png",
+        "honor_icon_black": "https://oss.5eplay.com/cloudx/p/database/csgo/honor/shandianzhan_dark.png",
+        "honor_text": "闪电战",
+        "id": "3806",
+        "jump_link": "fiveeplay://5eplay.com/battle/detail?alias=csgo_mc_2379335&tab=52&boutIndex=0&selectBout=1",
+        "jump_type": "match",
+        "match_id": "csgo_mc_2379335",
+        "player_id": "",
+        "player_name": "",
+        "portrait": "",
+        "team": {
+          "team_id": "hltv_team_12774",
+          "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "team_name": "FlyQuest"
+        },
+        "tt_info": {
+          "tt_id": "csgo_tt_8043",
+          "tt_logo": "https://oss.5eplay.com/sport/csgo/event/8043.png",
+          "tt_name": "PGL 克卢日纳波卡 2025"
+        },
+        "type": "team",
+        "unit": "",
+        "values": "12"
+      },
+      {
+        "achieve_time": "2024-11-13",
+        "achieve_type": "3357",
+        "bout_id": "csgo_mc_2376971_2",
+        "country_logo": "",
+        "country_name": "",
+        "created_at": "2024-11-13 20:30:59",
+        "detail": "FlyQuest已连续3场比赛获胜",
+        "dimension": "tt",
+        "dimension_text": "本 赛 事",
+        "honor_icon": "https://oss.5eplay.com/cloudx/p/database/csgo/honor/lianzhanlianjie_light.png",
+        "honor_icon_black": "https://oss.5eplay.com/cloudx/p/database/csgo/honor/lianzhanlianjie_dark.png",
+        "honor_text": "连战连捷",
+        "id": "3357",
+        "jump_link": "fiveeplay://5eplay.com/battle/detail?alias=csgo_mc_2376971&tab=52&boutIndex=1&selectBout=2",
+        "jump_type": "match",
+        "match_id": "csgo_mc_2376971",
+        "player_id": "",
+        "player_name": "",
+        "portrait": "",
+        "team": {
+          "team_id": "hltv_team_12774",
+          "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "team_name": "FlyQuest"
+        },
+        "tt_info": {
+          "tt_id": "csgo_tt_7862",
+          "tt_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cspig1sconkotam81f0g.png",
+          "tt_name": "完美世界 上海Major 亚洲RMR"
+        },
+        "type": "team",
+        "unit": "",
+        "values": "3"
+      }
+    ],
+    "players": [
+      {
+        "birthday": "1995-12-12",
+        "bonus": "$688,466",
+        "constellation": "https://oss.5eplay.com/player/constellation/sheshou.png",
+        "country_en": "Australia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/6db7c10a10c4b1bfffd88b3a88b0cc36.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80s3o4conkpudhr4j90.png",
+        "id": "csgo_pl_4679",
+        "is_conduct": "2",
+        "name": "jks",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80s3n4conkpudhr4j80.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_12774",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+        "team_name": "FlyQuest",
+        "top20_num": "2"
+      },
+      {
+        "birthday": "1998-09-22",
+        "bonus": "$122,619",
+        "constellation": "https://oss.5eplay.com/player/constellation/chunu.png",
+        "country_en": "Australia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/6db7c10a10c4b1bfffd88b3a88b0cc36.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80s39kconkpudhr4j7g.png",
+        "id": "csgo_pl_11140",
+        "is_conduct": "1",
+        "name": "INS",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80s38sconkpudhr4j70.png",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "指挥"
+        ],
+        "team_id": "hltv_team_12774",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+        "team_name": "FlyQuest",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2004-09-05",
+        "bonus": "$55,267",
+        "constellation": "https://oss.5eplay.com/player/constellation/chunu.png",
+        "country_en": "Australia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/6db7c10a10c4b1bfffd88b3a88b0cc36.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80s2o4conkpudhr4j6g.png",
+        "id": "csgo_pl_17384",
+        "is_conduct": "2",
+        "name": "Vexite",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80s2ncconkpudhr4j60.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_12774",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+        "team_name": "FlyQuest",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2003-07-30",
+        "bonus": "$11,906",
+        "constellation": "https://oss.5eplay.com/player/constellation/shizi.png",
+        "country_en": "New Zealand",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/5feb55c8f35b563b20d6964c9ef35a7e.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80s24cconkpudhr4j3g.png",
+        "id": "csgo_pl_18214",
+        "is_conduct": "2",
+        "name": "nettik",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80s23kconkpudhr4j30.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_12774",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+        "team_name": "FlyQuest",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "1998-04-07",
+        "bonus": "$100,412",
+        "constellation": "https://oss.5eplay.com/player/constellation/muyang.png",
+        "country_en": "Australia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/6db7c10a10c4b1bfffd88b3a88b0cc36.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80rqdsconkpudhr4iig.png",
+        "id": "csgo_pl_11139",
+        "is_conduct": "2",
+        "name": "aliStair",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d80rqd4conkpudhr4ii0.png",
+        "position": "首发",
+        "positions": [
+          "狙击手"
+        ],
+        "team_id": "hltv_team_12774",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+        "team_name": "FlyQuest",
+        "top20_num": "0"
+      }
+    ],
+    "rank_stats": [
+      {
+        "date": "2026-08-17",
+        "rank": "53",
+        "v_rank": "53"
+      },
+      {
+        "date": "2026-08-24",
+        "rank": "51",
+        "v_rank": "51"
+      },
+      {
+        "date": "2026-08-31",
+        "rank": "48",
+        "v_rank": "52"
+      },
+      {
+        "date": "2026-09-07",
+        "rank": "60",
+        "v_rank": "52"
+      },
+      {
+        "date": "2026-09-14",
+        "rank": "88",
+        "v_rank": "60"
+      },
+      {
+        "date": "2026-09-21",
+        "rank": "93",
+        "v_rank": "76"
+      },
+      {
+        "date": "2026-09-28",
+        "rank": "82",
+        "v_rank": "73"
+      },
+      {
+        "date": "2026-10-05",
+        "rank": "75",
+        "v_rank": "86"
+      },
+      {
+        "date": "2026-10-12",
+        "rank": "67",
+        "v_rank": "62"
+      },
+      {
+        "date": "2026-10-19",
+        "rank": "61",
+        "v_rank": "53"
+      },
+      {
+        "date": "2026-10-26",
+        "rank": "66",
+        "v_rank": "54"
+      },
+      {
+        "date": "2026-11-02",
+        "rank": "60",
+        "v_rank": "46"
+      },
+      {
+        "date": "2026-11-09",
+        "rank": "60",
+        "v_rank": "45"
+      },
+      {
+        "date": "2026-11-13",
+        "rank": "60",
+        "v_rank": "42"
+      }
+    ],
+    "win_rate": "61.2%",
+    "wins": "218"
+  },
+  "team_info": {
+    "average_player_age": "27",
+    "bonus": "$300,847",
+    "coach": "AZR",
+    "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/6db7c10a10c4b1bfffd88b3a88b0cc36.jpg",
+    "country_name": "澳大利亚",
+    "disp_abbr": "FlyQuest",
+    "disp_name": "FlyQuest",
+    "id": "hltv_team_12774",
+    "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+    "points": "17",
+    "rank": "60",
+    "region_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/region/Asia.png",
+    "region_name": "亚洲",
+    "tab_tt_status": "显示",
+    "tag": "",
+    "v_club_integral": "1307",
+    "v_club_rank": "42"
+  },
+  "honors": {
+    "history_honors": [
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "Stage 3",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "StarLadder布达佩斯Major 2025 第一阶段",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_8504",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      }
+    ],
+    "major_honors": [
+      {
+        "cup_url": "",
+        "honor_id": "",
+        "rank": "Stage 3",
+        "tt_info": {
+          "abbr_en": "",
+          "abbr_zh": "",
+          "bonus": "",
+          "city_name": "",
+          "color": "",
+          "cover": "",
+          "disp_name": "StarLadder布达佩斯Major 2025 第一阶段",
+          "end_time": "",
+          "grade": "",
+          "grade_label": "",
+          "id": "csgo_tt_8504",
+          "logo": "",
+          "mode": "",
+          "special_color": "",
+          "special_grade_label": "",
+          "start_time": "",
+          "status": ""
+        }
+      }
+    ]
+  },
+  "sessions": [
+    {
+      "mc_info": {
+        "bouts_result": [
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "1",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2400501",
+        "live_cfg_list": [],
+        "match_status": "0",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "EF",
+          "id": "csgo_tm_11251",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cla5secconkqks63cgbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "draw",
+        "status": "upcoming",
+        "t1_odds": "2.08",
+        "t1_odds_percent": "45",
+        "t1_score": "0",
+        "t2_odds": "1.72",
+        "t2_odds_percent": "55",
+        "t2_score": "0",
+        "ts": "1795503600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第一轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "新加坡",
+        "color": "ea3e38",
+        "cover": "",
+        "disp_name": "PGL 新加坡 Major 2026 第1阶段",
+        "end_time": "2026-11-27 23:59:59",
+        "grade": "1",
+        "grade_label": "Major",
+        "id": "csgo_tt_9303",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cukfq2kconkqmjpn86a0.png",
+        "mode": "2",
+        "special_color": "ea3e38",
+        "special_grade_label": "Major",
+        "start_time": "2026-11-24 00:00:00",
+        "status": "upcoming"
+      },
+      "like_data": {
+        "team1_likes": 4500,
+        "team2_likes": 5500,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          "home",
+          "",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "5",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "3",
+        "home_score": "3",
+        "id": "csgo_mc_2399901",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "AE",
+          "id": "csgo_tm_9958",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3u5n4nfq43340vmsg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.15",
+        "t1_odds_percent": "82",
+        "t1_score": "3",
+        "t2_odds": "5.16",
+        "t2_odds_percent": "18",
+        "t2_score": "0",
+        "ts": "1793502000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛  决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$28,651",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 邀请赛 2026",
+        "end_time": "2026-11-01 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9414",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cuhmrrkconkqmjpn83gg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-26 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8200,
+        "team2_likes": 1800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399900",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "AE",
+          "id": "csgo_tm_9958",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3u5n4nfq43340vmsg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.23",
+        "t1_odds_percent": "77",
+        "t1_score": "0",
+        "t2_odds": "3.94",
+        "t2_odds_percent": "23",
+        "t2_score": "2",
+        "ts": "1793340000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$28,651",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 邀请赛 2026",
+        "end_time": "2026-11-01 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9414",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cuhmrrkconkqmjpn83gg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-26 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 7700,
+        "team2_likes": 2300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399899",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NEXVOID",
+          "id": "hltv_team_13667",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/dbbbq4sconkip2fe71v0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.25",
+        "t1_odds_percent": "76",
+        "t1_score": "0",
+        "t2_odds": "3.77",
+        "t2_odds_percent": "24",
+        "t2_score": "2",
+        "ts": "1793329200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$28,651",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 邀请赛 2026",
+        "end_time": "2026-11-01 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9414",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cuhmrrkconkqmjpn83gg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-26 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 7600,
+        "team2_likes": 2400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399893",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Rooster",
+          "id": "csgo_tm_9881",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3u2f4nfq43340vma0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.01",
+        "t1_odds_percent": "93",
+        "t1_score": "2",
+        "t2_odds": "13.5",
+        "t2_odds_percent": "7",
+        "t2_score": "1",
+        "ts": "1793086500",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$28,651",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 邀请赛 2026",
+        "end_time": "2026-11-01 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9414",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cuhmrrkconkqmjpn83gg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-26 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9300,
+        "team2_likes": 700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399890",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Staqued",
+          "id": "hltv_team_13997",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/dab7d0sconkpudhr5ce0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.01",
+        "t1_odds_percent": "93",
+        "t1_score": "2",
+        "t2_odds": "13.5",
+        "t2_odds_percent": "7",
+        "t2_score": "0",
+        "ts": "1793070000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$28,651",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 邀请赛 2026",
+        "end_time": "2026-11-01 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9414",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cuhmrrkconkqmjpn83gg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-26 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9300,
+        "team2_likes": 700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399548",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NEXVOID",
+          "id": "hltv_team_13667",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7jdn8sconkpudhr4co0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.17",
+        "t1_odds_percent": "79",
+        "t1_score": "1",
+        "t2_odds": "4.42",
+        "t2_odds_percent": "21",
+        "t2_score": "2",
+        "ts": "1792305000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛  决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$13,893",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 罗技G Pro系列 2026",
+        "end_time": "2026-10-18 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9437",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db34micconkip2fe68fg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-15 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 7900,
+        "team2_likes": 2100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399545",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NEXVOID",
+          "id": "hltv_team_13667",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7jdn8sconkpudhr4co0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.13",
+        "t1_odds_percent": "81",
+        "t1_score": "2",
+        "t2_odds": "4.92",
+        "t2_odds_percent": "19",
+        "t2_score": "1",
+        "ts": "1792206000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$13,893",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 罗技G Pro系列 2026",
+        "end_time": "2026-10-18 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9437",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db34micconkip2fe68fg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-15 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8100,
+        "team2_likes": 1900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399544",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Rooster",
+          "id": "csgo_tm_9881",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3u2f4nfq43340vma0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.04",
+        "t1_odds_percent": "91",
+        "t1_score": "2",
+        "t2_odds": "10.09",
+        "t2_odds_percent": "9",
+        "t2_score": "0",
+        "ts": "1792195200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$13,893",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 罗技G Pro系列 2026",
+        "end_time": "2026-10-18 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9437",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db34micconkip2fe68fg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-15 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9100,
+        "team2_likes": 900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399540",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Abyssal",
+          "id": "hltv_team_13686",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d6fa6mcconkpudhr3lj0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.01",
+        "t1_odds_percent": "93",
+        "t1_score": "2",
+        "t2_odds": "13.5",
+        "t2_odds_percent": "7",
+        "t2_score": "0",
+        "ts": "1792124700",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$13,893",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 罗技G Pro系列 2026",
+        "end_time": "2026-10-18 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9437",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db34micconkip2fe68fg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-15 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9300,
+        "team2_likes": 700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399538",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Off Chops",
+          "id": "hltv_team_14095",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.09",
+        "t1_odds_percent": "87",
+        "t1_score": "2",
+        "t2_odds": "6.88",
+        "t2_odds_percent": "13",
+        "t2_score": "0",
+        "ts": "1792108800",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$13,893",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DFRAG 罗技G Pro系列 2026",
+        "end_time": "2026-10-18 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9437",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db34micconkip2fe68fg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-15 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8700,
+        "team2_likes": 1300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399249",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Abyssal",
+          "id": "hltv_team_13686",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d6fa6mcconkpudhr3lj0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.04",
+        "t1_odds_percent": "91",
+        "t1_score": "2",
+        "t2_odds": "10.09",
+        "t2_odds_percent": "9",
+        "t2_score": "0",
+        "ts": "1791703800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛  ",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$7,111",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ANZC Locals 布里斯班 2026 S2",
+        "end_time": "2026-10-11 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9423",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8015.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9100,
+        "team2_likes": 900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399246",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Gz",
+          "id": "csgo_tm_8536",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3sh74nfq43340vdsg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "0",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1791680700",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$7,111",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ANZC Locals 布里斯班 2026 S2",
+        "end_time": "2026-10-11 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9423",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8015.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "13",
+        "home_score": "13",
+        "id": "csgo_mc_2399245",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "KZG",
+          "id": "hltv_team_12152",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/civ11c4conkqks63agng.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "7",
+        "opponent_score": "7",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.02",
+        "t1_odds_percent": "92",
+        "t1_score": "13",
+        "t2_odds": "12.11",
+        "t2_odds_percent": "8",
+        "t2_score": "7",
+        "ts": "1791676500",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$7,111",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ANZC Locals 布里斯班 2026 S2",
+        "end_time": "2026-10-11 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9423",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8015.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9200,
+        "team2_likes": 800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399241",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Abyssal",
+          "id": "hltv_team_13686",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d6fa6mcconkpudhr3lj0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1791617700",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$7,111",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ANZC Locals 布里斯班 2026 S2",
+        "end_time": "2026-10-11 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9423",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8015.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "13",
+        "home_score": "13",
+        "id": "csgo_mc_2399239",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "madlikewizards",
+          "id": "csgo_tm_9275",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3tb74nfq43340via0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "8",
+        "opponent_score": "8",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "13",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "8",
+        "ts": "1791610200",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$7,111",
+        "city_name": "澳大利亚，布里斯班",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ANZC Locals 布里斯班 2026 S2",
+        "end_time": "2026-10-11 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9423",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8015.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398643",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "THUNDER dOWNUNDER",
+          "id": "hltv_team_13486",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d4j9drkconkgnll2763g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.09",
+        "t1_odds_percent": "87",
+        "t1_score": "2",
+        "t2_odds": "6.88",
+        "t2_odds_percent": "13",
+        "t2_score": "0",
+        "ts": "1790672400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛  决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$2,500",
+        "city_name": "大洋洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ESL 挑战者联赛 第52赛季 大洋洲杯 2",
+        "end_time": "2026-09-29 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9353",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8039.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-22 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8700,
+        "team2_likes": 1300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398640",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "THUNDER dOWNUNDER",
+          "id": "hltv_team_13486",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d4j9drkconkgnll2763g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.15",
+        "t1_odds_percent": "80",
+        "t1_score": "2",
+        "t2_odds": "4.7",
+        "t2_odds_percent": "20",
+        "t2_score": "0",
+        "ts": "1790499600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$2,500",
+        "city_name": "大洋洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ESL 挑战者联赛 第52赛季 大洋洲杯 2",
+        "end_time": "2026-09-29 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9353",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8039.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-22 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8000,
+        "team2_likes": 2000,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398634",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Rooster",
+          "id": "csgo_tm_9881",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3u2f4nfq43340vma0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.04",
+        "t1_odds_percent": "87",
+        "t1_score": "2",
+        "t2_odds": "7.25",
+        "t2_odds_percent": "13",
+        "t2_score": "0",
+        "ts": "1790326800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$2,500",
+        "city_name": "大洋洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ESL 挑战者联赛 第52赛季 大洋洲杯 2",
+        "end_time": "2026-09-29 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9353",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8039.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-22 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8700,
+        "team2_likes": 1300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FlyQuest",
+          "id": "hltv_team_12774",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/co31epkconklgsjvh0cg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398628",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "LFO 8",
+          "id": "hltv_team_13976",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "50",
+        "t1_score": "2",
+        "t2_odds": "11",
+        "t2_odds_percent": "50",
+        "t2_score": "0",
+        "ts": "1790154000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$2,500",
+        "city_name": "大洋洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ESL 挑战者联赛 第52赛季 大洋洲杯 2",
+        "end_time": "2026-09-29 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9353",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8039.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-22 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5000,
+        "team2_likes": 5000,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    }
+  ]
+}

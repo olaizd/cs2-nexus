@@ -1,0 +1,1936 @@
+{
+  "team_id": "hltv_team_13924",
+  "fetched_at": "2026-11-13T12:48:43.620Z",
+  "overview": {
+    "coach": "s0ft",
+    "death": "17209",
+    "draws": "0",
+    "kd_ratio": "1.02",
+    "kill": "17518",
+    "losses": "106",
+    "map_count": "242",
+    "milestone_display": false,
+    "milestones": [],
+    "players": [
+      {
+        "birthday": "",
+        "bonus": "",
+        "constellation": "",
+        "country_en": "Latvia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/latuoweiya.png",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cnelvcsconkqks63ealg.png",
+        "id": "csgo_pl_21513",
+        "is_conduct": "",
+        "name": "4X1s",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cnelvbcconkqks63eal0.png",
+        "position": "",
+        "positions": [],
+        "team_id": "hltv_team_13924",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+        "team_name": "Black Phoenix",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "",
+        "constellation": "",
+        "country_en": "Russia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9d442d4b119b5bf52e18371d14a2f429.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cr1bihkconkotam80dpg.png",
+        "id": "csgo_pl_22676",
+        "is_conduct": "2",
+        "name": "karnez",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cr1bigkconkotam80dp0.png",
+        "position": "",
+        "positions": [
+          "步枪手",
+          "突破"
+        ],
+        "team_id": "hltv_team_13924",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+        "team_name": "Black Phoenix",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "",
+        "constellation": "",
+        "country_en": "Russia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9d442d4b119b5bf52e18371d14a2f429.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cr2jt14conkotam80eqg.png",
+        "id": "csgo_pl_24326",
+        "is_conduct": "2",
+        "name": "topo",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cr2jt04conkotam80eq0.png",
+        "position": "",
+        "positions": [
+          "狙击手"
+        ],
+        "team_id": "hltv_team_13924",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+        "team_name": "Black Phoenix",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "",
+        "constellation": "",
+        "country_en": "Russia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9d442d4b119b5bf52e18371d14a2f429.jpg",
+        "country_zh": "",
+        "half_portrait": "",
+        "id": "csgo_pl_24824",
+        "is_conduct": "",
+        "name": "MRcreed",
+        "portrait": "",
+        "position": "",
+        "positions": [],
+        "team_id": "hltv_team_13924",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+        "team_name": "Black Phoenix",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "",
+        "constellation": "",
+        "country_en": "Russia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9d442d4b119b5bf52e18371d14a2f429.jpg",
+        "country_zh": "",
+        "half_portrait": "",
+        "id": "csgo_pl_25349",
+        "is_conduct": "",
+        "name": "Salazar",
+        "portrait": "",
+        "position": "",
+        "positions": [],
+        "team_id": "hltv_team_13924",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+        "team_name": "Black Phoenix",
+        "top20_num": "0"
+      }
+    ],
+    "rank_stats": [
+      {
+        "date": "2026-08-17",
+        "rank": "94",
+        "v_rank": "85"
+      },
+      {
+        "date": "2026-08-24",
+        "rank": "91",
+        "v_rank": "91"
+      },
+      {
+        "date": "2026-08-31",
+        "rank": "86",
+        "v_rank": "86"
+      },
+      {
+        "date": "2026-09-07",
+        "rank": "80",
+        "v_rank": "95"
+      },
+      {
+        "date": "2026-09-14",
+        "rank": "89",
+        "v_rank": "102"
+      },
+      {
+        "date": "2026-09-21",
+        "rank": "79",
+        "v_rank": "99"
+      },
+      {
+        "date": "2026-09-28",
+        "rank": "79",
+        "v_rank": "84"
+      },
+      {
+        "date": "2026-10-05",
+        "rank": "64",
+        "v_rank": "74"
+      },
+      {
+        "date": "2026-10-12",
+        "rank": "57",
+        "v_rank": "67"
+      },
+      {
+        "date": "2026-10-19",
+        "rank": "55",
+        "v_rank": "65"
+      },
+      {
+        "date": "2026-10-26",
+        "rank": "58",
+        "v_rank": "71"
+      },
+      {
+        "date": "2026-11-02",
+        "rank": "58",
+        "v_rank": "78"
+      },
+      {
+        "date": "2026-11-09",
+        "rank": "56",
+        "v_rank": "74"
+      },
+      {
+        "date": "2026-11-13",
+        "rank": "56",
+        "v_rank": "82"
+      }
+    ],
+    "win_rate": "56.2%",
+    "wins": "136"
+  },
+  "team_info": {
+    "average_player_age": "22",
+    "bonus": "",
+    "coach": "s0ft",
+    "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/9d442d4b119b5bf52e18371d14a2f429.jpg",
+    "country_name": "俄罗斯",
+    "disp_abbr": "Black Phoenix",
+    "disp_name": "Black Phoenix",
+    "id": "hltv_team_13924",
+    "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+    "points": "19",
+    "rank": "56",
+    "region_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/region/Europe.png",
+    "region_name": "欧洲",
+    "tab_tt_status": "显示",
+    "tag": "",
+    "v_club_integral": "1063",
+    "v_club_rank": "82"
+  },
+  "honors": {
+    "history_honors": [],
+    "major_honors": []
+  },
+  "sessions": [
+    {
+      "mc_info": {
+        "bouts_result": [
+          "",
+          "",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2400340",
+        "live_cfg_list": [],
+        "match_status": "1",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Genone",
+          "id": "csgo_tm_11609",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/ceihjin4nfq4334151pg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "draw",
+        "status": "live",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "0",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1794571200",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第二轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "NODWIN Clutch 系列赛 第14季",
+        "end_time": "2026-11-23 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9469",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbjldbkconkip2fe7rrg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "",
+          "",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2400152",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "MAYBE",
+          "id": "hltv_team_13945",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/db6pbm4conkip2fe6j1g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1794505942",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第五轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第13季",
+        "end_time": "2026-11-16 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9465",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-04 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2400149",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FORZE Reload",
+          "id": "hltv_team_12857",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpkjdi4conklgsjvidmg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1794420900",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第四轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第13季",
+        "end_time": "2026-11-16 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9465",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-04 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2400328",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Baks",
+          "id": "csgo_tm_11699",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d0t64o4conkt3legee40.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "0",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1794312000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第一轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "NODWIN Clutch 系列赛 第14季",
+        "end_time": "2026-11-23 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9469",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbjldbkconkip2fe7rrg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2400143",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ex-Zero Tenacity",
+          "id": "hltv_team_13573",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1794247200",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第三轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第13季",
+        "end_time": "2026-11-16 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9465",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-04 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2400133",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Baks",
+          "id": "csgo_tm_11699",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d0t64o4conkt3legee40.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1794052800",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第二轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第13季",
+        "end_time": "2026-11-16 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9465",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-04 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2400122",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Inner Circle Academy",
+          "id": "hltv_team_13681",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7t9q6cconkpudhr4e7g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1793804400",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第一轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第13季",
+        "end_time": "2026-11-16 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9465",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-04 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2400021",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "PCIFIC",
+          "id": "hltv_team_13054",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cv55kjsconkqmjpn8ik0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1793268000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$47,500",
+        "city_name": "哈萨克斯坦-阿拉木图",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CIS 电竞联赛 CyberClash 第二赛季 决赛",
+        "end_time": "2026-10-31 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9458",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db4adt4conkip2fe6bfg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399507",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Inner Circle Academy",
+          "id": "hltv_team_13681",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7t9q6cconkpudhr4e7g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1792940400",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第三轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第12季",
+        "end_time": "2026-11-01 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9457",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-20 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "",
+          "",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399111",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "INOX Division",
+          "id": "hltv_team_13814",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7lcaqcconkpudhr4cug.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1792861200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 十六强",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "NODWIN Clutch 系列赛 第13季",
+        "end_time": "2026-10-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9440",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db34uvkconkip2fe68ig.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-14 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399333",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "INOX Division",
+          "id": "hltv_team_13814",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d7lcaqcconkpudhr4cug.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1792764000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 十六强",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第11季",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9442",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-13 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399848",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Nemesis",
+          "id": "hltv_team_13355",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d3s4444conkqbk3bnu70.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1792749600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$50,000",
+        "city_name": "俄罗斯，莫斯科",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "WINLINE MPKBK CIS LAN 第9季",
+        "end_time": "2026-10-24 02:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9426",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9jgirsconkpudhr59eg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-20 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399845",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ex-CYBERSHOKE",
+          "id": "hltv_team_14106",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "0",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1792680000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$50,000",
+        "city_name": "俄罗斯，莫斯科",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "WINLINE MPKBK CIS LAN 第9季",
+        "end_time": "2026-10-24 02:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9426",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9jgirsconkpudhr59eg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-20 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399494",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Illyrians",
+          "id": "csgo_tm_11719",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cmfm1r4conkqks63dbm0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1792666800",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第二轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第12季",
+        "end_time": "2026-11-01 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9457",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-20 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399838",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "EVO Elite",
+          "id": "hltv_team_14063",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1792581000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$50,000",
+        "city_name": "俄罗斯，莫斯科",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "WINLINE MPKBK CIS LAN 第9季",
+        "end_time": "2026-10-24 02:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9426",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9jgirsconkpudhr59eg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-20 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399836",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "VP",
+          "id": "csgo_tm_5378",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/ct1uoncconkotam81hkg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1792569900",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$50,000",
+        "city_name": "俄罗斯，莫斯科",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "WINLINE MPKBK CIS LAN 第9季",
+        "end_time": "2026-10-24 02:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9426",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9jgirsconkpudhr59eg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-20 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399835",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "EVO Elite",
+          "id": "hltv_team_14063",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1792562400",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$50,000",
+        "city_name": "俄罗斯，莫斯科",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "WINLINE MPKBK CIS LAN 第9季",
+        "end_time": "2026-10-24 02:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9426",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9jgirsconkpudhr59eg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-20 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399322",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Spirit.A",
+          "id": "csgo_tm_7900",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_ceihkav4nfq4334151rg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1792504800",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第四轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第11季",
+        "end_time": "2026-10-25 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9442",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-13 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399486",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ex-6666",
+          "id": "hltv_team_14100",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1792494000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第一轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "CCT 2026 欧洲系列赛 第12季",
+        "end_time": "2026-11-01 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9457",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dakbh4sconkpudhr5fl0.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-20 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Black Phoenix",
+          "id": "hltv_team_13924",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daceq3kconkpudhr5d10.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399096",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Baks",
+          "id": "csgo_tm_11699",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d0t64o4conkt3legee40.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "0",
+        "ts": "1792407600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第三轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "NODWIN Clutch 系列赛 第13季",
+        "end_time": "2026-10-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9440",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db34uvkconkip2fe68ig.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-14 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    }
+  ]
+}

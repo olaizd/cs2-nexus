@@ -1,0 +1,1926 @@
+{
+  "team_id": "hltv_team_13996",
+  "fetched_at": "2026-11-13T12:48:42.637Z",
+  "overview": {
+    "coach": "wezx",
+    "death": "5693",
+    "draws": "0",
+    "kd_ratio": "0.99",
+    "kill": "5612",
+    "losses": "39",
+    "map_count": "80",
+    "milestone_display": false,
+    "milestones": [],
+    "players": [
+      {
+        "birthday": "2000-08-23",
+        "bonus": "$26,796",
+        "constellation": "https://oss.5eplay.com/player/constellation/shizi.png",
+        "country_en": "Denmark",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/d898280c32e0de60c8ec3e1ddface359.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cr7dut4conkotam80ig0.png",
+        "id": "csgo_pl_16731",
+        "is_conduct": "1",
+        "name": "IceBerg",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cr7durkconkotam80ifg.png",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "指挥"
+        ],
+        "team_id": "hltv_team_13996",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+        "team_name": "BBL",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2004-08-27",
+        "bonus": "$32,515",
+        "constellation": "https://oss.5eplay.com/player/constellation/chunu.png",
+        "country_en": "Denmark",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/d898280c32e0de60c8ec3e1ddface359.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d03erssconkt3lege5q0.png",
+        "id": "csgo_pl_21379",
+        "is_conduct": "2",
+        "name": "salazar",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d03esdcconkt3lege5r0.png",
+        "position": "首发",
+        "positions": [
+          "狙击手"
+        ],
+        "team_id": "hltv_team_13996",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+        "team_name": "BBL",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "$11,247",
+        "constellation": "",
+        "country_en": "Denmark",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/d898280c32e0de60c8ec3e1ddface359.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d03eu4sconkt3lege5sg.png",
+        "id": "csgo_pl_21571",
+        "is_conduct": "2",
+        "name": "leakz",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d03eub4conkt3lege5t0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_13996",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+        "team_name": "BBL",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "$4,809",
+        "constellation": "",
+        "country_en": "Denmark",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/d898280c32e0de60c8ec3e1ddface359.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d839ncsconkpudhr4o40.png",
+        "id": "csgo_pl_24104",
+        "is_conduct": "2",
+        "name": "NickyB",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d839nb4conkpudhr4o3g.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_13996",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+        "team_name": "BBL",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2004-04-22",
+        "bonus": "$56,653",
+        "constellation": "https://oss.5eplay.com/player/constellation/jinniu.png",
+        "country_en": "Denmark",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/d898280c32e0de60c8ec3e1ddface359.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d839l3sconkpudhr4nt0.png",
+        "id": "csgo_pl_21199",
+        "is_conduct": "2",
+        "name": "MistR",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d839l4sconkpudhr4ntg.png",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_13996",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+        "team_name": "BBL",
+        "top20_num": "0"
+      }
+    ],
+    "rank_stats": [
+      {
+        "date": "2026-08-31",
+        "rank": "55",
+        "v_rank": "51"
+      },
+      {
+        "date": "2026-09-07",
+        "rank": "62",
+        "v_rank": "54"
+      },
+      {
+        "date": "2026-09-14",
+        "rank": "54",
+        "v_rank": "50"
+      },
+      {
+        "date": "2026-09-21",
+        "rank": "51",
+        "v_rank": "43"
+      },
+      {
+        "date": "2026-09-28",
+        "rank": "50",
+        "v_rank": "42"
+      },
+      {
+        "date": "2026-10-05",
+        "rank": "47",
+        "v_rank": "38"
+      },
+      {
+        "date": "2026-10-12",
+        "rank": "49",
+        "v_rank": "41"
+      },
+      {
+        "date": "2026-10-19",
+        "rank": "48",
+        "v_rank": "35"
+      },
+      {
+        "date": "2026-10-26",
+        "rank": "48",
+        "v_rank": "41"
+      },
+      {
+        "date": "2026-11-02",
+        "rank": "47",
+        "v_rank": "42"
+      },
+      {
+        "date": "2026-11-09",
+        "rank": "50",
+        "v_rank": "42"
+      },
+      {
+        "date": "2026-11-13",
+        "rank": "50",
+        "v_rank": "40"
+      }
+    ],
+    "win_rate": "51.2%",
+    "wins": "41"
+  },
+  "team_info": {
+    "average_player_age": "23",
+    "bonus": "",
+    "coach": "wezx",
+    "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/d898280c32e0de60c8ec3e1ddface359.jpg",
+    "country_name": "丹麦",
+    "disp_abbr": "BBL",
+    "disp_name": "BBL",
+    "id": "hltv_team_13996",
+    "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+    "points": "28",
+    "rank": "50",
+    "region_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/region/Europe.png",
+    "region_name": "欧洲",
+    "tab_tt_status": "显示",
+    "tag": "",
+    "v_club_integral": "1326",
+    "v_club_rank": "40"
+  },
+  "honors": {
+    "history_honors": [],
+    "major_honors": []
+  },
+  "sessions": [
+    {
+      "mc_info": {
+        "bouts_result": [
+          "",
+          "",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2400520",
+        "live_cfg_list": [],
+        "match_status": "0",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Phantom",
+          "id": "hltv_team_13173",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d2sede4conkqbk3bnms0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "draw",
+        "status": "upcoming",
+        "t1_odds": "1.38",
+        "t1_odds_percent": "68",
+        "t1_score": "0",
+        "t2_odds": "2.88",
+        "t2_odds_percent": "32",
+        "t2_score": "0",
+        "ts": "1794931200",
+        "tt_stage": "",
+        "tt_stage_desc": "",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$34,208",
+        "city_name": "捷克共和国 - 布尔诺",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": " Tipsport RUSH 布尔诺 2026",
+        "end_time": "2026-11-22 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9273",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8166.png",
+        "mode": "0",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-20 00:00:00",
+        "status": "upcoming"
+      },
+      "like_data": {
+        "team1_likes": 6800,
+        "team2_likes": 3200,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "",
+          "",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2400515",
+        "live_cfg_list": [],
+        "match_status": "0",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "STATE",
+          "id": "hltv_team_13623",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d7q5pucconkpudhr4e5g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "draw",
+        "status": "upcoming",
+        "t1_odds": "1.25",
+        "t1_odds_percent": "76",
+        "t1_score": "0",
+        "t2_odds": "3.77",
+        "t2_odds_percent": "24",
+        "t2_score": "0",
+        "ts": "1794582000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 2",
+        "end_time": "2026-11-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9394",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-12 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 7600,
+        "team2_likes": 2400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2400512",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Private",
+          "id": "hltv_team_14030",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_dbamq1kconkip2fe6vog.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.28",
+        "t1_odds_percent": "72",
+        "t1_score": "2",
+        "t2_odds": "3.32",
+        "t2_odds_percent": "28",
+        "t2_score": "0",
+        "ts": "1794516300",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 八强",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 2",
+        "end_time": "2026-11-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9394",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-12 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 7200,
+        "team2_likes": 2800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "13",
+        "home_score": "13",
+        "id": "csgo_mc_2400505",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Rebels",
+          "id": "hltv_team_12642",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cmmt574conkqks63div0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "3",
+        "opponent_score": "3",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "13",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "3",
+        "ts": "1794513600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 十六强",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 2",
+        "end_time": "2026-11-13 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9394",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-12 00:00:00",
+        "status": "live"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2400465",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "magic",
+          "id": "hltv_team_13592",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/daaj9hsconkpudhr5c80.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.93",
+        "t1_odds_percent": "48",
+        "t1_score": "2",
+        "t2_odds": "1.79",
+        "t2_odds_percent": "52",
+        "t2_score": "0",
+        "ts": "1794421800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 总决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 1",
+        "end_time": "2026-11-11 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9393",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4800,
+        "team2_likes": 5200,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2400463",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "TPuDCATb_TPu",
+          "id": "hltv_team_13297",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d3rehqsconkqbk3bnu50.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.40",
+        "t1_odds_percent": "66",
+        "t1_score": "0",
+        "t2_odds": "2.74",
+        "t2_odds_percent": "34",
+        "t2_score": "2",
+        "ts": "1794409200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 1",
+        "end_time": "2026-11-11 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9393",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6600,
+        "team2_likes": 3400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2400460",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "WW",
+          "id": "hltv_team_12967",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/crplp9cconkotam81170.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1794341400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 八强",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 1",
+        "end_time": "2026-11-11 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9393",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "6",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "13",
+        "home_score": "13",
+        "id": "csgo_mc_2400453",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Infinite",
+          "id": "csgo_tm_10823",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3v374nfq43340vrlg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "6",
+        "opponent_score": "6",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.41",
+        "t1_odds_percent": "66",
+        "t1_score": "13",
+        "t2_odds": "2.71",
+        "t2_odds_percent": "34",
+        "t2_score": "6",
+        "ts": "1794337800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 十六强",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 克卢日纳波卡 2027 公开预选 1",
+        "end_time": "2026-11-11 23:59:59",
+        "grade": "6",
+        "grade_label": "资格赛B级",
+        "id": "csgo_tt_9393",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8052.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-11-10 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6600,
+        "team2_likes": 3400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399629",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Heroic",
+          "id": "csgo_tm_7175",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/cgeh6n9ll806h1bg2osg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "3.7",
+        "t1_odds_percent": "26",
+        "t1_score": "0",
+        "t2_odds": "1.26",
+        "t2_odds_percent": "74",
+        "t2_score": "2",
+        "ts": "1792596000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第2轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$35,000",
+        "city_name": "罗马尼亚，布加勒斯特",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DraculaN 第7季",
+        "end_time": "2026-10-23 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9312",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbbdlisconkip2fe7220.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-19 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2600,
+        "team2_likes": 7400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399621",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Luminosity",
+          "id": "csgo_tm_6290",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3qa74nfq43340uuo0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.28",
+        "t1_odds_percent": "40",
+        "t1_score": "2",
+        "t2_odds": "1.57",
+        "t2_odds_percent": "60",
+        "t2_score": "0",
+        "ts": "1792522200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 第1轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$35,000",
+        "city_name": "罗马尼亚，布加勒斯特",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DraculaN 第7季",
+        "end_time": "2026-10-23 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9312",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbbdlisconkip2fe7220.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-19 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4000,
+        "team2_likes": 6000,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399613",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BC.Game",
+          "id": "hltv_team_12878",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d9kq4kcconkpudhr59sg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "2.72",
+        "t1_odds_percent": "34",
+        "t1_score": "0",
+        "t2_odds": "1.42",
+        "t2_odds_percent": "66",
+        "t2_score": "2",
+        "ts": "1792494000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 第1轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$35,000",
+        "city_name": "罗马尼亚，布加勒斯特",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "DraculaN 第7季",
+        "end_time": "2026-10-23 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9312",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dbbdlisconkip2fe7220.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-19 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3400,
+        "team2_likes": 6600,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399664",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Betclic",
+          "id": "hltv_team_12916",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d0enhisconkt3lege8v0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.6",
+        "t1_odds_percent": "58",
+        "t1_score": "1",
+        "t2_odds": "2.26",
+        "t2_odds_percent": "42",
+        "t2_score": "2",
+        "ts": "1792418400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特 2027 封闭预选",
+        "end_time": "2026-10-20 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9449",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db353fsconkip2fe68jg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5800,
+        "team2_likes": 4200,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399661",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "ex-RUSTEC",
+          "id": "hltv_team_13901",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.53",
+        "t1_odds_percent": "61",
+        "t1_score": "2",
+        "t2_odds": "2.4",
+        "t2_odds_percent": "39",
+        "t2_score": "1",
+        "ts": "1792256400",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特 2027 封闭预选",
+        "end_time": "2026-10-20 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9449",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db353fsconkip2fe68jg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6100,
+        "team2_likes": 3900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399656",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "EYE",
+          "id": "csgo_tm_11737",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/merge_ceihebn4nfq4334151j0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.66",
+        "t1_odds_percent": "56",
+        "t1_score": "2",
+        "t2_odds": "2.14",
+        "t2_odds_percent": "44",
+        "t2_score": "0",
+        "ts": "1792162800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "PGL 布加勒斯特 2027 封闭预选",
+        "end_time": "2026-10-20 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9449",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/db353fsconkip2fe68jg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-16 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5600,
+        "team2_likes": 4400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399254",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "JJH",
+          "id": "csgo_tm_10245",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d00eh74conkt3lege5ag.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "2",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "1",
+        "ts": "1791897600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$80,000",
+        "city_name": "瑞典，斯德哥尔摩",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Stake Pulse Beat 第3季",
+        "end_time": "2026-10-17 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9223",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9g33ecconkpudhr56q0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-12 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399132",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Liquid",
+          "id": "csgo_tm_5973",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d3r1kusconkqbk3bnu2g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "3.22",
+        "t1_odds_percent": "29",
+        "t1_score": "2",
+        "t2_odds": "1.27",
+        "t2_odds_percent": "71",
+        "t2_score": "1",
+        "ts": "1791885600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$80,000",
+        "city_name": "瑞典，斯德哥尔摩",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "Stake Pulse Beat 第3季",
+        "end_time": "2026-10-17 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9223",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d9g33ecconkpudhr56q0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-12 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2900,
+        "team2_likes": 7100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398972",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NIP",
+          "id": "csgo_tm_4411",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_clsl1asconkqks63cvg0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "3.04",
+        "t1_odds_percent": "31",
+        "t1_score": "2",
+        "t2_odds": "1.36",
+        "t2_odds_percent": "69",
+        "t2_score": "0",
+        "ts": "1791030900",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "瑞典, 斯科夫德",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ROG 2026 秋季征途赛",
+        "end_time": "2026-10-04 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9253",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d915d3cconkpudhr54cg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-02 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3100,
+        "team2_likes": 6900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398969",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BC.Game",
+          "id": "hltv_team_12878",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d9kq4kcconkpudhr59sg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1791018000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "瑞典, 斯科夫德",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ROG 2026 秋季征途赛",
+        "end_time": "2026-10-04 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9253",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d915d3cconkpudhr54cg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-02 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398965",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FOKUS",
+          "id": "hltv_team_13679",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d6h5jh4conkpudhr3mo0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "1",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "2",
+        "ts": "1790965800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "瑞典, 斯科夫德",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ROG 2026 秋季征途赛",
+        "end_time": "2026-10-04 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9253",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d915d3cconkpudhr54cg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-02 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent"
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "12",
+        "home_score": "12",
+        "id": "csgo_mc_2398931",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NIP",
+          "id": "csgo_tm_4411",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_clsl1asconkqks63cvg0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "16",
+        "opponent_score": "16",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "16",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "12",
+        "ts": "1790958300",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$20,000",
+        "city_name": "瑞典, 斯科夫德",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "ROG 2026 秋季征途赛",
+        "end_time": "2026-10-04 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9253",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d915d3cconkpudhr54cg.png",
+        "mode": "1",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-02 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    }
+  ]
+}

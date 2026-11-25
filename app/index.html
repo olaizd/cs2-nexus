@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' 'unsafe-inline'; script-src 'self'; font-src 'self' data:; connect-src 'none';" />
+<title>CS2 NEXUS // 战术终端</title>
+<link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+<div id="boot" class="boot">
+  <div class="boot-grid"></div>
+  <div class="boot-core">
+    <div class="boot-mark">
+      <svg viewBox="0 0 100 100" aria-hidden="true">
+        <polygon points="50,4 92,27 92,73 50,96 8,73 8,27" fill="none" stroke="currentColor" stroke-width="1.4"/>
+        <polygon points="50,17 80,34 80,66 50,83 20,66 20,34" fill="none" stroke="currentColor" stroke-width=".7" opacity=".45"/>
+        <path d="M31 63 L50 27 L69 63 Z" fill="none" stroke="currentColor" stroke-width="2"/>
+        <path d="M39 55 L50 39 L61 55" fill="none" stroke="currentColor" stroke-width="1.2" opacity=".7"/>
+        <circle cx="50" cy="50" r="3" fill="currentColor"/>
+      </svg>
+      <i class="scan"></i>
+    </div>
+    <div class="boot-title">CS2 <b>NEXUS</b></div>
+    <div class="boot-sub">COMPETITIVE INTELLIGENCE TERMINAL</div>
+    <div class="boot-bar"><i id="bootBar"></i></div>
+    <div class="boot-log" id="bootLog">正在建立数据链路…</div>
+    <div class="boot-meta"><span>VALVE</span><span>HLTV</span><span>5E PLAY</span><span>PERFECT WORLD</span></div>
+  </div>
+  <div class="boot-corner tl"></div><div class="boot-corner tr"></div><div class="boot-corner bl"></div><div class="boot-corner br"></div>
+</div>
+
+<div id="shell" class="shell hidden">
+  <div class="ambient" aria-hidden="true">
+    <div class="orb orb-a"></div><div class="orb orb-b"></div><div class="orb orb-c"></div>
+    <div class="grid-floor"></div>
+    <div class="noise"></div>
+    <div class="scanlines"></div>
+  </div>
+
+  <header class="titlebar">
+    <div class="tb-brand">
+      <span class="tb-mark">
+        <svg viewBox="0 0 100 100"><polygon points="50,7 89,28 89,72 50,93 11,72 11,28" fill="none" stroke="currentColor" stroke-width="5"/><path d="M31 64 L50 29 L69 64 Z" fill="none" stroke="currentColor" stroke-width="7"/></svg>
+      </span>
+      <span class="tb-name">CS2 <b>NEXUS</b></span>
+      <span class="tb-tag">TACTICAL OS</span>
+    </div>
+    <div class="tb-status">
+      <span class="dot live"></span><span>数据链路在线</span>
+      <span class="tb-sep"></span><span id="syncClock">--:--:--</span>
+      <span class="auto-pill" id="autoPill" title="每 60 秒自动同步 5E 实时赛程"><i></i>AUTO 60s</span>
+    </div>
+    <div class="tb-drag"></div>
+    <div class="tb-actions">
+      <button class="tb-btn" id="btnMin" title="最小化"><svg viewBox="0 0 12 12"><path d="M2 6h8" stroke="currentColor" stroke-width="1.3"/></svg></button>
+      <button class="tb-btn" id="btnMax" title="最大化"><svg viewBox="0 0 12 12"><rect x="2.2" y="2.2" width="7.6" height="7.6" fill="none" stroke="currentColor" stroke-width="1.1"/></svg></button>
+      <button class="tb-btn close" id="btnClose" title="关闭"><svg viewBox="0 0 12 12"><path d="M2.5 2.5l7 7m0-7l-7 7" stroke="currentColor" stroke-width="1.2"/></svg></button>
+    </div>
+  </header>
+
+  <div class="frame">
+    <aside class="rail">
+      <div class="rail-head">
+        <div class="rail-logo">
+          <svg viewBox="0 0 100 100"><polygon points="50,6 90,28 90,72 50,94 10,72 10,28" fill="none" stroke="currentColor" stroke-width="2"/><path d="M32 65 L50 31 L68 65 Z" fill="none" stroke="currentColor" stroke-width="2.4"/></svg>
+        </div>
+        <div class="rail-title">NEXUS<small>v1.0 / CN</small></div>
+      </div>
+      <nav class="nav" id="nav"></nav>
+      <div class="rail-foot">
+        <div class="mini-signal">
+          <span class="bars"><i></i><i></i><i></i><i></i></span>
+          <span>FEED STABLE</span>
+        </div>
+        <div class="rail-note">ALL DATA ON <b>F:\</b></div>
+      </div>
+    </aside>
+
+    <main class="workspace">
+      <div class="topbar">
+        <div class="page-id">
+          <div class="eyebrow" id="pageEyebrow">COMMAND CENTER</div>
+          <h1 id="pageTitle">作战总览</h1>
+        </div>
+        <div class="top-tools">
+          <div class="searchbox" id="searchBox">
+            <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M16 16l4.2 4.2" stroke="currentColor" stroke-width="1.6"/></svg>
+            <input id="globalSearch" type="text" placeholder="搜索战队 / 赛事 / 比赛" autocomplete="off" />
+            <kbd>Ctrl K</kbd>
+          </div>
+          <button class="btn ghost sync-btn" id="btnSync">
+            <svg viewBox="0 0 24 24"><path d="M20 11a8 8 0 10-2.3 5.7M20 5v6h-6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+            <span>同步数据</span>
+          </button>
+          <button class="favorite-chip" id="favChip" title="我的主队"></button>
+        </div>
+      </div>
+      <div id="syncStrip" class="sync-strip hidden"><i></i><span id="syncText"></span><b id="syncPct"></b></div>
+      <div id="view" class="view"></div>
+      <div class="statusbar">
+        <div class="sb-left"><span class="dot live"></span><span id="sbSource">5E PLAY · HLTV · VALVE</span></div>
+        <div class="sb-mid" id="sbTicker">正在装载战术数据矩阵…</div>
+        <div class="sb-right"><span id="sbStorage">F:\工作区\cs2-nexus</span><span class="sb-sep"></span><span id="sbClock">--:--</span></div>
+      </div>
+    </main>
+  </div>
+</div>
+
+<div id="overlayRoot"></div>
+<div id="toastRoot" class="toast-root"></div>
+<div id="paletteRoot"></div>
+<script src="./app.js"></script>
+</body>
+</html>

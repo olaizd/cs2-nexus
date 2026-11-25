@@ -1,0 +1,1972 @@
+{
+  "team_id": "hltv_team_12257",
+  "fetched_at": "2026-11-13T12:48:42.435Z",
+  "overview": {
+    "coach": "splawik",
+    "death": "47731",
+    "draws": "0",
+    "kd_ratio": "1.04",
+    "kill": "49453",
+    "losses": "284",
+    "map_count": "671",
+    "milestone_display": false,
+    "milestones": [
+      {
+        "achieve_time": "2025-06-04",
+        "achieve_type": "5651",
+        "bout_id": "csgo_mc_2382302_1",
+        "country_logo": "",
+        "country_name": "",
+        "created_at": "2025-06-04 03:34:50",
+        "detail": "本局以13:1领先对手12分获胜",
+        "dimension": "tt",
+        "dimension_text": "本 赛 事",
+        "honor_icon": "https://oss.5eplay.com/cloudx/p/database/csgo/honor/shandianzhan_light.png",
+        "honor_icon_black": "https://oss.5eplay.com/cloudx/p/database/csgo/honor/shandianzhan_dark.png",
+        "honor_text": "闪电战",
+        "id": "5651",
+        "jump_link": "fiveeplay://5eplay.com/battle/detail?alias=csgo_mc_2382302&tab=52&boutIndex=0&selectBout=1",
+        "jump_type": "match",
+        "match_id": "csgo_mc_2382302",
+        "player_id": "",
+        "player_name": "",
+        "portrait": "",
+        "team": {
+          "team_id": "hltv_team_12257",
+          "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "team_name": "Wildcard"
+        },
+        "tt_info": {
+          "tt_id": "csgo_tt_8436",
+          "tt_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cvb4aokconkt3legdtsg.png",
+          "tt_name": "BLAST.tv 奥斯汀 Major 2025 第一阶段"
+        },
+        "type": "team",
+        "unit": "",
+        "values": "12"
+      }
+    ],
+    "players": [
+      {
+        "birthday": "2003-11-22",
+        "bonus": "$62,200",
+        "constellation": "https://oss.5eplay.com/player/constellation/tianxie.png",
+        "country_en": "United States",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/2df42f69e4220309f4cb1f27860caa65.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d788224conkpudhr3r8g.png",
+        "id": "csgo_pl_17378",
+        "is_conduct": "2",
+        "name": "reck",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d78820sconkpudhr3r80.webp",
+        "position": "首发",
+        "positions": [
+          "步枪手"
+        ],
+        "team_id": "hltv_team_12257",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+        "team_name": "Wildcard",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2001-10-30",
+        "bonus": "$86,404",
+        "constellation": "https://oss.5eplay.com/player/constellation/tianxie.png",
+        "country_en": "Canada",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/af64db05f680bdf1e28617628204737d.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d78814sconkpudhr3r50.png",
+        "id": "csgo_pl_18838",
+        "is_conduct": "",
+        "name": "HexT",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d788144conkpudhr3r4g.webp",
+        "position": "首发",
+        "positions": [],
+        "team_id": "hltv_team_12257",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+        "team_name": "Wildcard",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "",
+        "bonus": "$31,895",
+        "constellation": "",
+        "country_en": "Serbia",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/b3cf8510dc84624e4179928c720ebbb1.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d7881acconkpudhr3r60.png",
+        "id": "csgo_pl_8311",
+        "is_conduct": "1",
+        "name": "nEMANHA",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/d78819cconkpudhr3r5g.webp",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "指挥"
+        ],
+        "team_id": "hltv_team_12257",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+        "team_name": "Wildcard",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2000-06-15",
+        "bonus": "$101,748",
+        "constellation": "https://oss.5eplay.com/player/constellation/shuangzi.png",
+        "country_en": "United States",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/2df42f69e4220309f4cb1f27860caa65.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cv3r4fkconkqmjpn8fjg.png",
+        "id": "csgo_pl_17353",
+        "is_conduct": "2",
+        "name": "Cxzi",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/cv3r4esconkqmjpn8fj0.png",
+        "position": "首发",
+        "positions": [
+          "步枪手",
+          "狙击手"
+        ],
+        "team_id": "hltv_team_12257",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+        "team_name": "Wildcard",
+        "top20_num": "0"
+      },
+      {
+        "birthday": "2002-04-27",
+        "bonus": "$32,761",
+        "constellation": "https://oss.5eplay.com/player/constellation/jinniu.png",
+        "country_en": "Poland",
+        "country_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/country/d9749eaa939d680b32005c95ea9189d2.jpg",
+        "country_zh": "",
+        "half_portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/csdf6asconkotam81ao0.png",
+        "id": "csgo_pl_20018",
+        "is_conduct": "2",
+        "name": "fr3nd",
+        "portrait": "https://oss.5eplay.com/cloudx/p/sport/csgo/player/csdf6a4conkotam81ang.png",
+        "position": "首发",
+        "positions": [
+          "狙击手"
+        ],
+        "team_id": "hltv_team_12257",
+        "team_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+        "team_name": "Wildcard",
+        "top20_num": "0"
+      }
+    ],
+    "rank_stats": [
+      {
+        "date": "2026-08-17",
+        "rank": "48",
+        "v_rank": "50"
+      },
+      {
+        "date": "2026-08-24",
+        "rank": "42",
+        "v_rank": "50"
+      },
+      {
+        "date": "2026-08-31",
+        "rank": "39",
+        "v_rank": "53"
+      },
+      {
+        "date": "2026-09-07",
+        "rank": "39",
+        "v_rank": "55"
+      },
+      {
+        "date": "2026-09-14",
+        "rank": "40",
+        "v_rank": "56"
+      },
+      {
+        "date": "2026-09-21",
+        "rank": "46",
+        "v_rank": "65"
+      },
+      {
+        "date": "2026-09-28",
+        "rank": "41",
+        "v_rank": "53"
+      },
+      {
+        "date": "2026-10-05",
+        "rank": "46",
+        "v_rank": "58"
+      },
+      {
+        "date": "2026-10-12",
+        "rank": "42",
+        "v_rank": "40"
+      },
+      {
+        "date": "2026-10-19",
+        "rank": "42",
+        "v_rank": "40"
+      },
+      {
+        "date": "2026-10-26",
+        "rank": "47",
+        "v_rank": "44"
+      },
+      {
+        "date": "2026-11-02",
+        "rank": "44",
+        "v_rank": "38"
+      },
+      {
+        "date": "2026-11-09",
+        "rank": "43",
+        "v_rank": "37"
+      },
+      {
+        "date": "2026-11-13",
+        "rank": "43",
+        "v_rank": "37"
+      }
+    ],
+    "win_rate": "57.7%",
+    "wins": "387"
+  },
+  "team_info": {
+    "average_player_age": "26",
+    "bonus": "$224,690",
+    "coach": "splawik",
+    "country_logo": "https://oss.5eplay.com/sport/csgo/country/cervu0hll806civqfsjg.png",
+    "country_name": "北美",
+    "disp_abbr": "Wildcard",
+    "disp_name": "Wildcard",
+    "id": "hltv_team_12257",
+    "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+    "points": "36",
+    "rank": "43",
+    "region_logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/region/d72aencconkpudhr3q1g.png",
+    "region_name": "美洲",
+    "tab_tt_status": "显示",
+    "tag": "",
+    "v_club_integral": "1340",
+    "v_club_rank": "37"
+  },
+  "honors": {
+    "history_honors": [],
+    "major_honors": []
+  },
+  "sessions": [
+    {
+      "mc_info": {
+        "bouts_result": [
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "1",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2400500",
+        "live_cfg_list": [],
+        "match_status": "0",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "FaZe",
+          "id": "csgo_tm_6667",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d818n3cconkpudhr4jmg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "draw",
+        "status": "upcoming",
+        "t1_odds": "2.74",
+        "t1_odds_percent": "35",
+        "t1_score": "0",
+        "t2_odds": "1.44",
+        "t2_odds_percent": "65",
+        "t2_score": "0",
+        "ts": "1795503600",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 第一轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "晋级",
+        "city_name": "新加坡",
+        "color": "ea3e38",
+        "cover": "",
+        "disp_name": "PGL 新加坡 Major 2026 第1阶段",
+        "end_time": "2026-11-27 23:59:59",
+        "grade": "1",
+        "grade_label": "Major",
+        "id": "csgo_tt_9303",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/cukfq2kconkqmjpn86a0.png",
+        "mode": "2",
+        "special_color": "ea3e38",
+        "special_grade_label": "Major",
+        "start_time": "2026-11-24 00:00:00",
+        "status": "upcoming"
+      },
+      "like_data": {
+        "team1_likes": 3500,
+        "team2_likes": 6500,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2399989",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "100 Thieves",
+          "id": "csgo_tm_8474",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_d6kfct4conkpudhr3n40.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "3.94",
+        "t1_odds_percent": "23",
+        "t1_score": "2",
+        "t2_odds": "1.23",
+        "t2_odds_percent": "77",
+        "t2_score": "0",
+        "ts": "1793565000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2300,
+        "team2_likes": 7700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399987",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BARCA",
+          "id": "hltv_team_14107",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/dbcn46kconkip2fe76c0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.48",
+        "t1_odds_percent": "63",
+        "t1_score": "0",
+        "t2_odds": "2.53",
+        "t2_odds_percent": "37",
+        "t2_score": "2",
+        "ts": "1793550900",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 6300,
+        "team2_likes": 3700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399985",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.23",
+        "t1_odds_percent": "42",
+        "t1_score": "1",
+        "t2_odds": "1.61",
+        "t2_odds_percent": "58",
+        "t2_score": "2",
+        "ts": "1793484900",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 4200,
+        "team2_likes": 5800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399981",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Hacha",
+          "id": "hltv_team_13722",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/dbg0iacconkip2fe7gu0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.01",
+        "t1_odds_percent": "94",
+        "t1_score": "0",
+        "t2_odds": "15.00",
+        "t2_odds_percent": "6",
+        "t2_score": "2",
+        "ts": "1793464800",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9400,
+        "team2_likes": 600,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2399976",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BESTIA",
+          "id": "hltv_team_12144",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_da17794conkpudhr5b0g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.62",
+        "t1_odds_percent": "58",
+        "t1_score": "1",
+        "t2_odds": "2.21",
+        "t2_odds_percent": "42",
+        "t2_score": "2",
+        "ts": "1793395500",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5800,
+        "team2_likes": 4200,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399974",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Hacha",
+          "id": "hltv_team_13722",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/dbg0iacconkip2fe7gu0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.01",
+        "t1_odds_percent": "93",
+        "t1_score": "2",
+        "t2_odds": "14.00",
+        "t2_odds_percent": "7",
+        "t2_score": "0",
+        "ts": "1793385000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$75,000",
+        "city_name": "阿根廷，布宜诺斯艾利斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FiRe 2026 最后机会",
+        "end_time": "2026-11-01 19:00:00",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9421",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/dal0r4sconkpudhr5h7g.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-29 19:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 9300,
+        "team2_likes": 700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "opponent",
+          "home",
+          "opponent",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "5",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "3",
+        "home_score": "3",
+        "id": "csgo_mc_2399407",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "DENDELE",
+          "id": "hltv_team_13926",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d9gplikconkpudhr56vg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.6",
+        "t1_odds_percent": "58",
+        "t1_score": "3",
+        "t2_odds": "2.26",
+        "t2_odds_percent": "42",
+        "t2_score": "2",
+        "ts": "1791760800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛  总决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "美国，纽约州，锡拉丘兹",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FRAG 大学杯 2026",
+        "end_time": "2026-10-12 07:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9413",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d927aksconkpudhr54h0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5800,
+        "team2_likes": 4200,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2399402",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "DENDELE",
+          "id": "hltv_team_13926",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d9gplikconkpudhr56vg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "3.63",
+        "t1_odds_percent": "26",
+        "t1_score": "0",
+        "t2_odds": "1.26",
+        "t2_odds_percent": "74",
+        "t2_score": "2",
+        "ts": "1791673200",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "美国，纽约州，锡拉丘兹",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FRAG 大学杯 2026",
+        "end_time": "2026-10-12 07:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9413",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d927aksconkpudhr54h0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2600,
+        "team2_likes": 7400,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home"
+        ],
+        "dark_horse": "1",
+        "format": "1",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "16",
+        "home_score": "16",
+        "id": "csgo_mc_2399399",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "12",
+        "opponent_score": "12",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.81",
+        "t1_odds_percent": "33",
+        "t1_score": "12",
+        "t2_odds": "1.4",
+        "t2_odds_percent": "67",
+        "t2_score": "16",
+        "ts": "1791664800",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "美国，纽约州，锡拉丘兹",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FRAG 大学杯 2026",
+        "end_time": "2026-10-12 07:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9413",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d927aksconkpudhr54h0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3300,
+        "team2_likes": 6700,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "1",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "13",
+        "home_score": "13",
+        "id": "csgo_mc_2399393",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Last Dance US",
+          "id": "hltv_team_14088",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "5",
+        "opponent_score": "5",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "",
+        "t1_odds_percent": "0",
+        "t1_score": "13",
+        "t2_odds": "",
+        "t2_odds_percent": "0",
+        "t2_score": "5",
+        "ts": "1791647700",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$25,000",
+        "city_name": "美国，纽约州，锡拉丘兹",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FRAG 大学杯 2026",
+        "end_time": "2026-10-12 07:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9413",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d927aksconkpudhr54h0.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-09 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 0,
+        "team2_likes": 0,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398897",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Infinite",
+          "id": "csgo_tm_10823",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/hz/cec3v374nfq43340vrlg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.31",
+        "t1_odds_percent": "71",
+        "t1_score": "0",
+        "t2_odds": "3.27",
+        "t2_odds_percent": "29",
+        "t2_score": "2",
+        "ts": "1791048000",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$13,602",
+        "city_name": "葡萄牙，新加亚镇",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FOX Legacy 第一赛季",
+        "end_time": "2026-10-04 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9336",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/daqtvtsconkip2fe5lfg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-01 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 7100,
+        "team2_likes": 2900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398895",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "EAC",
+          "id": "hltv_team_13838",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/da1rpa4conkpudhr5b60.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.65",
+        "t1_odds_percent": "57",
+        "t1_score": "2",
+        "t2_odds": "2.17",
+        "t2_odds_percent": "43",
+        "t2_score": "1",
+        "ts": "1791021600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$13,602",
+        "city_name": "葡萄牙，新加亚镇",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FOX Legacy 第一赛季",
+        "end_time": "2026-10-04 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9336",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/daqtvtsconkip2fe5lfg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-01 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5700,
+        "team2_likes": 4300,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "opponent"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "5",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "1",
+        "home_score": "1",
+        "id": "csgo_mc_2398888",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Nice Try",
+          "id": "hltv_team_14007",
+          "logo": "https://oss.5eplay.com/sport/csgo/team/null.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.15",
+        "t1_odds_percent": "82",
+        "t1_score": "1",
+        "t2_odds": "5.16",
+        "t2_odds_percent": "18",
+        "t2_score": "2",
+        "ts": "1790958600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$13,602",
+        "city_name": "葡萄牙，新加亚镇",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "FOX Legacy 第一赛季",
+        "end_time": "2026-10-04 23:59:59",
+        "grade": "5",
+        "grade_label": "C级赛事",
+        "id": "csgo_tt_9336",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/daqtvtsconkip2fe5lfg.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-10-01 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8200,
+        "team2_likes": 1800,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398300",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Liquid",
+          "id": "csgo_tm_5973",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d3r1kusconkqbk3bnu2g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "3.7",
+        "t1_odds_percent": "25",
+        "t1_score": "2",
+        "t2_odds": "1.24",
+        "t2_odds_percent": "75",
+        "t2_score": "0",
+        "ts": "1790549100",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2500,
+        "team2_likes": 7500,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "home",
+          "home"
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398298",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "DENDELE",
+          "id": "hltv_team_13926",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/d9gplikconkpudhr56vg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "1",
+        "opponent_score": "1",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "2.66",
+        "t1_odds_percent": "35",
+        "t1_score": "1",
+        "t2_odds": "1.42",
+        "t2_odds_percent": "65",
+        "t2_score": "2",
+        "ts": "1790463600",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 半决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3500,
+        "team2_likes": 6500,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398291",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "3.32",
+        "t1_odds_percent": "28",
+        "t1_score": "2",
+        "t2_odds": "1.29",
+        "t2_odds_percent": "72",
+        "t2_score": "0",
+        "ts": "1790442000",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 2800,
+        "team2_likes": 7200,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "home",
+          "home",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "2",
+        "home_score": "2",
+        "id": "csgo_mc_2398290",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Chicken Coop",
+          "id": "hltv_team_13107",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_cu4q5h4conkqmjpn7t3g.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "0",
+        "opponent_score": "0",
+        "result": "home_win",
+        "status": "past",
+        "t1_odds": "1.03",
+        "t1_odds_percent": "89",
+        "t1_score": "0",
+        "t2_odds": "8.14",
+        "t2_odds_percent": "11",
+        "t2_score": "2",
+        "ts": "1790376300",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 败者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 8900,
+        "team2_likes": 1100,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "2",
+        "format": "3",
+        "grade": "4",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2398288",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "NRG",
+          "id": "csgo_tm_6673",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/coe8h0kconklgsjvh5gg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "3",
+        "t1_odds_percent": "31",
+        "t1_score": "2",
+        "t2_odds": "1.33",
+        "t2_odds_percent": "69",
+        "t2_score": "0",
+        "ts": "1790356800",
+        "tt_stage": "小组赛",
+        "tt_stage_desc": "小组赛 胜者组 首轮",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "",
+        "abbr_zh": "",
+        "bonus": "$30,000",
+        "city_name": "美国，内华达州 拉斯维加斯",
+        "color": "7983a2",
+        "cover": "",
+        "disp_name": "iBUYPOWER 大师赛 2026",
+        "end_time": "2026-09-27 23:59:59",
+        "grade": "4",
+        "grade_label": "B级赛事",
+        "id": "csgo_tt_9187",
+        "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/tournament/d7un8ecconkpudhr4h30.png",
+        "mode": "2",
+        "special_color": "",
+        "special_grade_label": "",
+        "start_time": "2026-09-25 00:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 3100,
+        "team2_likes": 6900,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    },
+    {
+      "mc_info": {
+        "bouts_result": [
+          "opponent",
+          "opponent",
+          ""
+        ],
+        "dark_horse": "1",
+        "format": "3",
+        "grade": "9",
+        "high_lights_cfg_list": [],
+        "home_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "Wildcard",
+          "id": "hltv_team_12257",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/cpsgc7cconklgsjvior0.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "home_quick_score": "0",
+        "home_score": "0",
+        "id": "csgo_mc_2397877",
+        "live_cfg_list": [],
+        "match_status": "2",
+        "opponent_info": {
+          "bonus": "",
+          "country": "",
+          "disp_name": "BBL",
+          "id": "hltv_team_13996",
+          "logo": "https://oss.5eplay.com/cloudx/p/sport/csgo/team/merge_daajd2cconkpudhr5cbg.png",
+          "rank": "",
+          "v_rank": null
+        },
+        "opponent_quick_score": "2",
+        "opponent_score": "2",
+        "result": "opponent_win",
+        "status": "past",
+        "t1_odds": "1.69",
+        "t1_odds_percent": "55",
+        "t1_score": "2",
+        "t2_odds": "2.05",
+        "t2_odds_percent": "45",
+        "t2_score": "0",
+        "ts": "1789212900",
+        "tt_stage": "淘汰赛",
+        "tt_stage_desc": "淘汰赛 1/4决赛",
+        "user_data": {
+          "sub_status": 0
+        },
+        "highlight_status": 0
+      },
+      "tt_info": {
+        "abbr_en": "Thunderpick World Championship 2026 Closed Qualifier",
+        "abbr_zh": "TP 世界锦标赛 2026 封闭预选",
+        "bonus": "晋级",
+        "city_name": "欧洲，线上",
+        "color": "663dea",
+        "cover": "",
+        "disp_name": "TP 世界锦标赛 2026 封闭预选",
+        "end_time": "2026-09-13 23:59:59",
+        "grade": "9",
+        "grade_label": "资格赛A级",
+        "id": "csgo_tt_9308",
+        "logo": "https://oss.5eplay.com/sport/csgo/event/8067.png",
+        "mode": "1",
+        "special_color": "663dea",
+        "special_grade_label": "资格赛A级",
+        "start_time": "2026-09-09 18:00:00",
+        "status": "past"
+      },
+      "like_data": {
+        "team1_likes": 5500,
+        "team2_likes": 4500,
+        "is_likes": false,
+        "is_dislikes": false
+      },
+      "state": {
+        "drop_act": 0,
+        "has_forecast": 0,
+        "has_expert_plan": 0,
+        "highlight_status": 0,
+        "live_status": 0,
+        "video_status": 2
+      }
+    }
+  ]
+}
